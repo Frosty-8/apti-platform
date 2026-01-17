@@ -1,0 +1,5652 @@
+[
+    {
+        "id": 1,
+        "category": "General Aptitude",
+        "question": "There are two examination rooms A and B. If 10 students are sent from A to B, then the number of students in each room is the same. If 20 candidates are sent from B to A, then the number of students in A is double the number of students in B. The number of students in room A is:",
+        "option_a": "20",
+        "option_b": "80",
+        "option_c": "100",
+        "option_d": "200",
+        "answer": "C"
+    },
+    {
+        "id": 2,
+        "category": "General Aptitude",
+        "question": "The price of commodity X increases by 40 paise every year, while the price of commodity Y increases by 15 paise every year. If in 2001, the price of commodity X was Rs. 4.20 and that of Y was Rs. 6.30, in which year will commodity X cost 40 paise more than commodity Y?",
+        "option_a": "2010",
+        "option_b": "2011",
+        "option_c": "2012",
+        "option_d": "2013",
+        "answer": "B"
+    },
+    {
+        "id": 3,
+        "category": "General Aptitude",
+        "question": "If a - b = 3 and a² + b² = 29, find the value of ab.",
+        "option_a": "10",
+        "option_b": "12",
+        "option_c": "15",
+        "option_d": "18",
+        "answer": "A"
+    },
+    {
+        "id": 4,
+        "category": "General Aptitude",
+        "question": "The salaries A, B, and C are in the ratio 2:3:5. If increments of 15%, 10%, and 20% are allowed in their salaries, then what will be the new ratio of their salaries?",
+        "option_a": "03:03:10",
+        "option_b": "10:11:20",
+        "option_c": "0.981944444",
+        "option_d": "Cannot be determined",
+        "answer": "C"
+    },
+    {
+        "id": 5,
+        "category": "General Aptitude",
+        "question": "A and B entered into a partnership with capitals in the ratio 4:5. After 3 months, A withdrew some capital and B withdrew some of his capital. The gain at the end of 10 months was Rs. 760. A's share in the profit is:",
+        "option_a": "Rs. 330",
+        "option_b": "Rs. 360",
+        "option_c": "Rs. 380",
+        "option_d": "Rs. 430",
+        "answer": "A"
+    },
+    {
+        "id": 6,
+        "category": "General Aptitude",
+        "question": "What is R's share of profit in a joint venture? I. Q started business investing Rs. 80,000. II. R joined him after 3 months. III. P joined after 4 months with a capital of Rs. 1,20,000 and got Rs. 6000 as his share profit.",
+        "option_a": "All I, II, and III",
+        "option_b": "I and III only",
+        "option_c": "II and III only",
+        "option_d": "Even with all I, II, and III, the answer cannot be arrived at",
+        "answer": "D"
+    },
+    {
+        "id": 7,
+        "category": "General Aptitude",
+        "question": "A alone can do a piece of work in 6 days and B alone in 8 days. A and B undertook to do it for Rs. 3200. With the help of C, they completed the work in 3 days. How much is to be paid to C?",
+        "option_a": "Rs. 375",
+        "option_b": "Rs. 400",
+        "option_c": "Rs. 600",
+        "option_d": "Rs. 800",
+        "answer": "B"
+    },
+    {
+        "id": 8,
+        "category": "General Aptitude",
+        "question": "A goods train runs at the speed of 72 kmph and crosses a 250 m long platform in 26 seconds. What is the length of the goods train?",
+        "option_a": "230 m",
+        "option_b": "240 m",
+        "option_c": "260 m",
+        "option_d": "270 m",
+        "answer": "D"
+    },
+    {
+        "id": 9,
+        "category": "General Aptitude",
+        "question": "If log10 2 = 0.3010, then log2 10 is equal to:",
+        "option_a": "699",
+        "option_b": "1000",
+        "option_c": "0.301",
+        "option_d": "0.699",
+        "answer": "B"
+    },
+    {
+        "id": 10,
+        "category": "General Aptitude",
+        "question": "An error of 2% in excess is made while measuring the side of a square. The percentage of error in the calculated area of the square is:",
+        "option_a": "2%",
+        "option_b": "2.02%",
+        "option_c": "4%",
+        "option_d": "4.04%",
+        "answer": "D"
+    },
+    {
+        "id": 11,
+        "category": "General Aptitude",
+        "question": "In a shower, 5 cm of rain falls. The volume of water that falls on 1.5 hectares of ground is:",
+        "option_a": "75 cu. m",
+        "option_b": "750 cu. m",
+        "option_c": "7500 cu. m",
+        "option_d": "75000 cu. m",
+        "answer": "B"
+    },
+    {
+        "id": 12,
+        "category": "General Aptitude",
+        "question": "What is the volume of a cube? I. The area of each face of the cube is 64 square metres. II. The length of one side of the cube is 8 metres.",
+        "option_a": "I alone sufficient while II alone not sufficient",
+        "option_b": "II alone sufficient while I alone not sufficient",
+        "option_c": "Either I or II alone sufficient to answer",
+        "option_d": "Both I and II are not sufficient",
+        "answer": "C"
+    },
+    {
+        "id": 13,
+        "category": "General Aptitude",
+        "question": "The reflex angle between the hands of a clock at 10:25 is:",
+        "option_a": "180º",
+        "option_b": "192.5º",
+        "option_c": "195º",
+        "option_d": "197.5º",
+        "answer": "D"
+    },
+    {
+        "id": 14,
+        "category": "General Aptitude",
+        "question": "At what time between 4 and 5 o'clock will the hands of a watch point in opposite directions?",
+        "option_a": "45 min past 4",
+        "option_b": "40 min past 4",
+        "option_c": "50.4 min past 4",
+        "option_d": "54.6 min past 4",
+        "answer": "D"
+    },
+    {
+        "id": 15,
+        "category": "General Aptitude",
+        "question": "A 12% stock yielding 10% is quoted at:",
+        "option_a": "Rs. 83.33",
+        "option_b": "Rs. 110",
+        "option_c": "Rs. 112",
+        "option_d": "Rs. 120",
+        "answer": "D"
+    },
+    {
+        "id": 16,
+        "category": "General Aptitude",
+        "question": "In how many different ways can the letters of the word 'DETAIL' be arranged in such a way that the vowels occupy only the odd positions?",
+        "option_a": "32",
+        "option_b": "48",
+        "option_c": "36",
+        "option_d": "60",
+        "answer": "C"
+    },
+    {
+        "id": 17,
+        "category": "General Aptitude",
+        "question": "An observer 1.6 m tall is 203 m away from a tower. The angle of elevation from his eye to the top of the tower is 30º. The height of the tower is:",
+        "option_a": "21.6 m",
+        "option_b": "23.2 m",
+        "option_c": "24.72 m",
+        "option_d": "None of these",
+        "answer": "A"
+    },
+    {
+        "id": 18,
+        "category": "General Aptitude",
+        "question": "Find the odd one out: 1, 4, 9, 16, 23, 25, 36",
+        "option_a": "9",
+        "option_b": "23",
+        "option_c": "25",
+        "option_d": "36",
+        "answer": "B"
+    },
+    {
+        "id": 19,
+        "category": "General Aptitude",
+        "question": "Let N be the greatest number that will divide 1305, 4665, and 6905, leaving the same remainder in each case. The sum of the digits in N is:",
+        "option_a": "4",
+        "option_b": "5",
+        "option_c": "6",
+        "option_d": "8",
+        "answer": "A"
+    },
+    {
+        "id": 20,
+        "category": "General Aptitude",
+        "question": "The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What might be the weight of the new person?",
+        "option_a": "76 kg",
+        "option_b": "76.5 kg",
+        "option_c": "85 kg",
+        "option_d": "Data inadequate",
+        "answer": "C"
+    },
+    {
+        "id": 21,
+        "category": "General Aptitude",
+        "question": "The difference between a two-digit number and the number obtained by interchanging the digits is 36. What is the difference between the sum and the difference of the digits of the number if the ratio between the digits of the number is 1:2?",
+        "option_a": "4",
+        "option_b": "8",
+        "option_c": "16",
+        "option_d": "None of these",
+        "answer": "B"
+    },
+    {
+        "id": 22,
+        "category": "General Aptitude",
+        "question": "The sum of the present ages of a father and his son is 60 years. Six years ago, the father's age was five times the son's age. After 6 years, the son's age will be:",
+        "option_a": "12 years",
+        "option_b": "14 years",
+        "option_c": "18 years",
+        "option_d": "20 years",
+        "answer": "D"
+    },
+    {
+        "id": 23,
+        "category": "General Aptitude",
+        "question": "Three candidates contested an election and received 1136, 7636, and 11628 votes, respectively. What percentage of the total votes did the winning candidate get?",
+        "option_a": "57%",
+        "option_b": "60%",
+        "option_c": "65%",
+        "option_d": "90%",
+        "answer": "A"
+    },
+    {
+        "id": 24,
+        "category": "General Aptitude",
+        "question": "In a certain store, the profit is 320% of the cost. If the cost increases by 25% but the selling price remains constant, approximately what percentage of the selling price is the profit?",
+        "option_a": "30%",
+        "option_b": "70%",
+        "option_c": "100%",
+        "option_d": "250%",
+        "answer": "B"
+    },
+    {
+        "id": 25,
+        "category": "General Aptitude",
+        "question": "If the cost of x meters of wire is d rupees, then what is the cost of y meters of wire at the same rate?",
+        "option_a": "Rs. (xy/d)",
+        "option_b": "Rs. (xd)",
+        "option_c": "Rs. (yd)",
+        "option_d": "Rs. (yd/x)",
+        "answer": "D"
+    },
+    {
+        "id": 26,
+        "category": "General Aptitude",
+        "question": "A flagstaff 17.5 m high casts a shadow of length 40.25 m. The height of a building, which casts a shadow of length 28.75 m under similar conditions, will be:",
+        "option_a": "10 m",
+        "option_b": "12.5 m",
+        "option_c": "17.5 m",
+        "option_d": "21.25 m",
+        "answer": "B"
+    },
+    {
+        "id": 27,
+        "category": "General Aptitude",
+        "question": "In how many days can 10 women finish a work? I. 10 men can complete the work in 6 days. II. 10 men and 10 women together can complete the work in 3 3/7 days. III. If 10 men work for 3 days and then 10 women replace them, the remaining work is completed in 4 days.",
+        "option_a": "Any two of the three",
+        "option_b": "I and II only",
+        "option_c": "II and III only",
+        "option_d": "I and III only",
+        "answer": "A"
+    },
+    {
+        "id": 28,
+        "category": "General Aptitude",
+        "question": "8 men and 14 women are working together in a field. After 3 days, 5 men and 8 women leave. How many more days will be required to complete the work? I. 19 men and 12 women together can complete the work in 18 days. II. 16 men can complete two-thirds of the work in 16 days. III. In 1 day, the work done by three men is equal to the work done by four women.",
+        "option_a": "I only",
+        "option_b": "II only",
+        "option_c": "III only",
+        "option_d": "I, II, or III",
+        "answer": "D"
+    },
+    {
+        "id": 29,
+        "category": "General Aptitude",
+        "question": "A towel, when bleached, was found to have lost 20% of its length and 10% of its breadth. The percentage decrease in area is:",
+        "option_a": "10%",
+        "option_b": "10.08%",
+        "option_c": "20%",
+        "option_d": "28%",
+        "answer": "D"
+    },
+    {
+        "id": 30,
+        "category": "General Aptitude",
+        "question": "What is the capacity of a cylindrical tank? I. Radius of the base is half of its height which is 28 metres. II. Area of the base is 616 sq. metres and its height is 28 metres.",
+        "option_a": "I alone sufficient while II alone not sufficient",
+        "option_b": "II alone sufficient while I alone not sufficient",
+        "option_c": "Either I or II alone sufficient to answer",
+        "option_d": "Both I and II are not sufficient",
+        "answer": "C"
+    },
+    {
+        "id": 31,
+        "category": "General Aptitude",
+        "question": "In a 100 m race, A covers the distance in 36 seconds and B in 45 seconds. In this race, A beats B by:",
+        "option_a": "20 m",
+        "option_b": "25 m",
+        "option_c": "22.5 m",
+        "option_d": "9 m",
+        "answer": "A"
+    },
+    {
+        "id": 32,
+        "category": "General Aptitude",
+        "question": "A 6% stock yields 8%. The market value of the stock is:",
+        "option_a": "Rs. 48",
+        "option_b": "Rs. 75",
+        "option_c": "Rs. 96",
+        "option_d": "Rs. 133.33",
+        "answer": "B"
+    },
+    {
+        "id": 33,
+        "category": "General Aptitude",
+        "question": "A box contains 2 white balls, 3 black balls, and 4 red balls. In how many ways can 3 balls be drawn from the box, if at least one black ball is to be included in the draw?",
+        "option_a": "32",
+        "option_b": "48",
+        "option_c": "64",
+        "option_d": "96",
+        "answer": "C"
+    },
+    {
+        "id": 34,
+        "category": "General Aptitude",
+        "question": "If Rs. 10 is allowed as true discount on a bill of Rs. 110 due at the end of a certain time, then the discount allowed on the same sum due at the end of double the time is:",
+        "option_a": "Rs. 20",
+        "option_b": "Rs. 21.81",
+        "option_c": "Rs. 22",
+        "option_d": "Rs. 18.33",
+        "answer": "D"
+    },
+    {
+        "id": 35,
+        "category": "General Aptitude",
+        "question": "10, 14, 16, 18, 21, 24, 26 – find the odd one out.",
+        "option_a": "26",
+        "option_b": "24",
+        "option_c": "21",
+        "option_d": "18",
+        "answer": "C"
+    },
+    {
+        "id": 36,
+        "category": "General Aptitude",
+        "question": "835, 734, 642, 751, 853, 981, 532 – find the odd one out.",
+        "option_a": "751",
+        "option_b": "853",
+        "option_c": "981",
+        "option_d": "532",
+        "answer": "A"
+    },
+    {
+        "id": 37,
+        "category": "General Aptitude",
+        "question": "1, 2, 6, 15, 31, 56, 91 – find the wrong number in the sequence.",
+        "option_a": "31",
+        "option_b": "91",
+        "option_c": "56",
+        "option_d": "15",
+        "answer": "B"
+    },
+    {
+        "id": 38,
+        "category": "General Aptitude",
+        "question": "7, 26, 63, 124, 215, 342 – find the next number in the series.",
+        "option_a": "481",
+        "option_b": "511",
+        "option_c": "391",
+        "option_d": "421",
+        "answer": "B"
+    },
+    {
+        "id": 39,
+        "category": "General Aptitude",
+        "question": "Two trains running in opposite directions cross a man standing on the platform in 27 seconds and 17 seconds respectively and they cross each other in 23 seconds. The ratio of their speeds is:",
+        "option_a": "1:3",
+        "option_b": "3:2",
+        "option_c": "3:4",
+        "option_d": "None of these",
+        "answer": "B"
+    },
+    {
+        "id": 40,
+        "category": "General Aptitude",
+        "question": "A train overtakes two persons walking along a railway track. The first one walks at 4.5 km/hr, and the other at 5.4 km/hr. The train needs 8.4 and 8.5 seconds respectively to overtake them. What is the speed of the train if both the persons are walking in the same direction as the train?",
+        "option_a": "66 km/hr",
+        "option_b": "72 km/hr",
+        "option_c": "78 km/hr",
+        "option_d": "81 km/hr",
+        "answer": "D"
+    },
+    {
+        "id": 41,
+        "category": "General Aptitude",
+        "question": "A runs 1.5 times as fast as B. If A gives B a start of 80 m, how far must the winning post be so that A and B might reach it at the same time?",
+        "option_a": "200 m",
+        "option_b": "300 m",
+        "option_c": "270 m",
+        "option_d": "160 m",
+        "answer": "A"
+    },
+    {
+        "id": 42,
+        "category": "General Aptitude",
+        "question": "Q is as much younger than R as he is older than T. If the sum of the ages of R and T is 50 years, what is definitely the difference between R and Q's age?",
+        "option_a": "1 year",
+        "option_b": "2 years",
+        "option_c": "25 years",
+        "option_d": "Data inadequate",
+        "answer": "D"
+    },
+    {
+        "id": 43,
+        "category": "General Aptitude",
+        "question": "The value of log2 16 is:",
+        "option_a": "1/8",
+        "option_b": "4",
+        "option_c": "8",
+        "option_d": "16",
+        "answer": "B"
+    },
+    {
+        "id": 44,
+        "category": "General Aptitude",
+        "question": "In a two-digit number, it is known that its unit’s digit exceeds its ten’s digit by 2 and that the product of the given number and the sum of its digits is equal to 144. The number is:",
+        "option_a": "24",
+        "option_b": "26",
+        "option_c": "42",
+        "option_d": "46",
+        "answer": "A"
+    },
+    {
+        "id": 45,
+        "category": "General Aptitude",
+        "question": "The square root of 64009 is:",
+        "option_a": "253",
+        "option_b": "347",
+        "option_c": "363",
+        "option_d": "803",
+        "answer": "A"
+    },
+    {
+        "id": 46,
+        "category": "General Aptitude",
+        "question": "What should come in place of both 'x' in the equation x/128 = 162/x?",
+        "option_a": "12",
+        "option_b": "14",
+        "option_c": "144",
+        "option_d": "196",
+        "answer": "A"
+    },
+    {
+        "id": 47,
+        "category": "General Aptitude",
+        "question": "A, B, and C can do a piece of work in 20, 30, and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?",
+        "option_a": "12 days",
+        "option_b": "15 days",
+        "option_c": "16 days",
+        "option_d": "18 days",
+        "answer": "B"
+    },
+    {
+        "id": 48,
+        "category": "General Aptitude",
+        "question": "The value of 489.1375 × 0.0483 × 1.956 is closest to:",
+        "option_a": "0.006",
+        "option_b": "0.06",
+        "option_c": "0.6",
+        "option_d": "6",
+        "answer": "B"
+    },
+    {
+        "id": 49,
+        "category": "General Aptitude",
+        "question": "Three numbers are in the ratio of 3:4:5, and their LCM is 2400. Their HCF is:",
+        "option_a": "40",
+        "option_b": "80",
+        "option_c": "120",
+        "option_d": "200",
+        "answer": "A"
+    },
+    {
+        "id": 50,
+        "category": "General Aptitude",
+        "question": "Which of the following fractions is the largest?",
+        "option_a": "7/8",
+        "option_b": "13/16",
+        "option_c": "31/40",
+        "option_d": "63/80",
+        "answer": "A"
+    },
+    {
+        "id": 51,
+        "category": "General Aptitude",
+        "question": "A sum of Rs. 725 is lent at the beginning of a year at a certain rate of interest. After 8 months, a sum of Rs. 362.50 more is lent, but at double the previous rate. At the end of the year, Rs. 33.50 is earned as interest from both loans. What was the original rate of interest?",
+        "option_a": "3.60%",
+        "option_b": "4.50%",
+        "option_c": "5%",
+        "option_d": "None of these",
+        "answer": "D"
+    },
+    {
+        "id": 52,
+        "category": "General Aptitude",
+        "question": "An accurate clock shows 8 o'clock in the morning. Through how many degrees will the hour hand rotate when the clock shows 2 o'clock in the afternoon?",
+        "option_a": "144º",
+        "option_b": "150º",
+        "option_c": "168º",
+        "option_d": "180º",
+        "answer": "D"
+    },
+    {
+        "id": 53,
+        "category": "General Aptitude",
+        "question": "From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 3 men are on the committee. In how many ways can it be done?",
+        "option_a": "564",
+        "option_b": "645",
+        "option_c": "735",
+        "option_d": "756",
+        "answer": "D"
+    },
+    {
+        "id": 54,
+        "category": "General Aptitude",
+        "question": "A dishonest milkman professes to sell his milk at cost price but he mixes it with water and thereby gains 25%. The percentage of water in the mixture is:",
+        "option_a": "4%",
+        "option_b": "6%",
+        "option_c": "20%",
+        "option_d": "25%",
+        "answer": "C"
+    },
+    {
+        "id": 55,
+        "category": "General Aptitude",
+        "question": "A vessel is filled with liquid, 3 parts of which are water and 5 parts syrup. How much of the mixture must be drawn off and replaced with water so that the mixture may be half water and half syrup?",
+        "option_a": "1/3",
+        "option_b": "1/4",
+        "option_c": "1/5",
+        "option_d": "1/6",
+        "answer": "C"
+    },
+    {
+        "id": 56,
+        "category": "General Aptitude",
+        "question": "The cost price of Rs. 100 stock at 4% discount, when brokerage is 1/4%, is:",
+        "option_a": "Rs. 95.75",
+        "option_b": "Rs. 96",
+        "option_c": "Rs. 96.25",
+        "option_d": "Rs. 104.25",
+        "answer": "C"
+    },
+    {
+        "id": 57,
+        "category": "General Aptitude",
+        "question": "If 40% of a number is equal to two-third of another number, what is the ratio of the first number to the second number?",
+        "option_a": "02:05",
+        "option_b": "03:07",
+        "option_c": "05:03",
+        "option_d": "07:03",
+        "answer": "C"
+    },
+    {
+        "id": 58,
+        "category": "General Aptitude",
+        "question": "In a bag, there are coins of 25 p, 10 p, and 5 p in the ratio of 1 : 2 : 3. If there is Rs. 30 in all, how many 5 p coins are there?",
+        "option_a": "50",
+        "option_b": "100",
+        "option_c": "150",
+        "option_d": "200",
+        "answer": "C"
+    },
+    {
+        "id": 59,
+        "category": "General Aptitude",
+        "question": "A man takes loan from a bank at 12% p.a. simple interest. After 3 years, he paid Rs. 5400 as interest. What was the principal amount?",
+        "option_a": "Rs. 2000",
+        "option_b": "Rs. 10,000",
+        "option_c": "Rs. 15,000",
+        "option_d": "Rs. 20,000",
+        "answer": "C"
+    },
+    {
+        "id": 60,
+        "category": "General Aptitude",
+        "question": "A flagstaff 17.5 m high casts a shadow 40.25 m long. What is the height of a building that casts a shadow 28.75 m long under similar conditions?",
+        "option_a": "10 m",
+        "option_b": "12.5 m",
+        "option_c": "17.5 m",
+        "option_d": "21.25 m",
+        "answer": "B"
+    },
+    {
+        "id": 61,
+        "category": "General Aptitude",
+        "question": "The reflex angle between the hands of a clock at 10:25 is:",
+        "option_a": "180º",
+        "option_b": "192 ½º",
+        "option_c": "195º",
+        "option_d": "197 ½º",
+        "answer": "D"
+    },
+    {
+        "id": 62,
+        "category": "General Aptitude",
+        "question": "The diagonal of a rectangle is 41 cm, and its area is 20 cm². What is the perimeter of the rectangle?",
+        "option_a": "9 cm",
+        "option_b": "18 cm",
+        "option_c": "20 cm",
+        "option_d": "41 cm",
+        "answer": "B"
+    },
+    {
+        "id": 63,
+        "category": "General Aptitude",
+        "question": "A, B, and C can complete a task in 24, 6, and 12 days respectively. How many days will they take to finish the task if working together?",
+        "option_a": "1 day",
+        "option_b": "7/24 day",
+        "option_c": "3 3/7 days",
+        "option_d": "4 days",
+        "answer": "C"
+    },
+    {
+        "id": 64,
+        "category": "General Aptitude",
+        "question": "A train overtakes two persons walking along a railway track. The first one walks at 4.5 km/hr, and the other one at 5.4 km/hr. The train needs 8.4 and 8.5 seconds respectively to overtake them. What is the speed of the train?",
+        "option_a": "66 km/hr",
+        "option_b": "72 km/hr",
+        "option_c": "78 km/hr",
+        "option_d": "81 km/hr",
+        "answer": "D"
+    },
+    {
+        "id": 65,
+        "category": "General Aptitude",
+        "question": "A train of 240 meters long passes a pole in 24 seconds. How long will it take to pass a platform 650 meters long?",
+        "option_a": "65 sec",
+        "option_b": "89 sec",
+        "option_c": "100 sec",
+        "option_d": "150 sec",
+        "answer": "B"
+    },
+    {
+        "id": 66,
+        "category": "General Aptitude",
+        "question": "How many seconds will a 500-meter-long train take to cross a man walking with a speed of 3 km/hr in the direction of the moving train if the speed of the train is 63 km/hr?",
+        "option_a": "25 sec",
+        "option_b": "30 sec",
+        "option_c": "40 sec",
+        "option_d": "45 sec",
+        "answer": "B"
+    },
+    {
+        "id": 67,
+        "category": "General Aptitude",
+        "question": "In a 500 m race, the ratio of the speeds of two contestants A and B is 3 : 4. A has a start of 140 m. Then, A wins by:",
+        "option_a": "60 m",
+        "option_b": "40 m",
+        "option_c": "20 m",
+        "option_d": "10 m",
+        "answer": "C"
+    },
+    {
+        "id": 68,
+        "category": "General Aptitude",
+        "question": "A boatman goes 2 km against the current of the stream in 1 hour and goes 1 km along the current in 10 minutes. How long will it take to go 5 km in stationary water?",
+        "option_a": "40 minutes",
+        "option_b": "1 hour",
+        "option_c": "1 hr 15 min",
+        "option_d": "1 hr 30 min",
+        "answer": "C"
+    },
+    {
+        "id": 69,
+        "category": "General Aptitude",
+        "question": "Two goods trains each 500 m long are running in opposite directions on parallel tracks at 45 km/hr and 30 km/hr, respectively. The time taken by the slower train to pass the driver of the faster one is:",
+        "option_a": "12 sec",
+        "option_b": "24 sec",
+        "option_c": "48 sec",
+        "option_d": "60 sec",
+        "answer": "B"
+    },
+    {
+        "id": 70,
+        "category": "General Aptitude",
+        "question": "A man sells two buffaloes for Rs. 7,820 each. On one he gains 15% and on the other, he loses 15%. His total gain or loss in the transaction is",
+        "option_a": "2.5% gain",
+        "option_b": "2.25% loss",
+        "option_c": "2% loss",
+        "option_d": "5% loss",
+        "answer": "B"
+    },
+    {
+        "id": 71,
+        "category": "General Aptitude",
+        "question": "One ship goes along the stream direction 28 km and in opposite direction 13 km in 5 hrs for each direction. What is the velocity of the stream?",
+        "option_a": "1.5 kmph",
+        "option_b": "2.5 kmph",
+        "option_c": "1.8 kmph",
+        "option_d": "2 kmph",
+        "answer": "A"
+    },
+    {
+        "id": 72,
+        "category": "General Aptitude",
+        "question": "Which one of the words given below is different from others?",
+        "option_a": "Orange",
+        "option_b": "Grape",
+        "option_c": "Apricot",
+        "option_d": "Raspberry",
+        "answer": "C"
+    },
+    {
+        "id": 73,
+        "category": "General Aptitude",
+        "question": "Complete the series: 5, 20, 24, 6, 2, 8, ?",
+        "option_a": "12",
+        "option_b": "32",
+        "option_c": "34",
+        "option_d": "36",
+        "answer": "A"
+    },
+    {
+        "id": 74,
+        "category": "General Aptitude",
+        "question": "A can have a piece of work done in 8 days, B can work three times faster than A, C can work five times faster than A. How many days will they take to do the work together?",
+        "option_a": "3 days",
+        "option_b": "8/9 days",
+        "option_c": "4 days",
+        "option_d": "None of the above",
+        "answer": "B"
+    },
+    {
+        "id": 75,
+        "category": "General Aptitude",
+        "question": "A sum of Rs. 427 is to be divided among A, B, and C in such a way that 3 times A's share, 4 times B's share, and 7 times C's share are all equal. The share of C is",
+        "option_a": "Rs. 84",
+        "option_b": "Rs. 76",
+        "option_c": "Rs. 98",
+        "option_d": "Rs. 34",
+        "answer": "A"
+    },
+    {
+        "id": 76,
+        "category": "General Aptitude",
+        "question": "In a race of 200 m, A can beat B by 31 m and C by 18 m. In a race of 350 m, C will beat B by",
+        "option_a": "22.75 m",
+        "option_b": "25 m",
+        "option_c": "19.5 m",
+        "option_d": "7",
+        "answer": "A"
+    },
+    {
+        "id": 77,
+        "category": "General Aptitude",
+        "question": "A man took a loan from a bank at the rate of 12% p.a. simple interest. After 3 years, he had to pay Rs. 5400 as interest only for the period. The principal amount borrowed by him was",
+        "option_a": "Rs. 2000",
+        "option_b": "Rs. 10,000",
+        "option_c": "Rs. 15,000",
+        "option_d": "Rs. 20,000",
+        "answer": "C"
+    },
+    {
+        "id": 78,
+        "category": "General Aptitude",
+        "question": "A man walked diagonally across a square lot. Approximately, what was the percent saved by not walking along the edges?",
+        "option_a": "20%",
+        "option_b": "24%",
+        "option_c": "30%",
+        "option_d": "33%",
+        "answer": "C"
+    },
+    {
+        "id": 79,
+        "category": "General Aptitude",
+        "question": "How much time will the leak take to empty the full cistern? (I. The cistern is normally filled in 9 hours. II. It takes one hour more than usual to fill the cistern because of the leak.)",
+        "option_a": "I alone sufficient",
+        "option_b": "II alone sufficient",
+        "option_c": "Either I or II alone",
+        "option_d": "Both I and II are necessary",
+        "answer": "D"
+    },
+    {
+        "id": 80,
+        "category": "General Aptitude",
+        "question": "A metallic sheet is of rectangular shape with dimensions 48 m x 36 m. From each of its corners, a square is cut off to make an open box. If the length of the square is 8 m, the volume of the box is:",
+        "option_a": "4830 m³",
+        "option_b": "5120 m³",
+        "option_c": "6420 m³",
+        "option_d": "8960 m³",
+        "answer": "B"
+    },
+    {
+        "id": 81,
+        "category": "General Aptitude",
+        "question": "The reflex angle between the hands of a clock at 10:25 is:",
+        "option_a": "180º",
+        "option_b": "192.5º",
+        "option_c": "195º",
+        "option_d": "197.5º",
+        "answer": "D"
+    },
+    {
+        "id": 82,
+        "category": "General Aptitude",
+        "question": "The cost price of Rs. 100 stock at 4% discount, when brokerage is 1/4%, is:",
+        "option_a": "Rs. 96",
+        "option_b": "Rs. 96.25",
+        "option_c": "Rs. 96.50",
+        "option_d": "Rs. 97",
+        "answer": "C"
+    },
+    {
+        "id": 83,
+        "category": "General Aptitude",
+        "question": "Three candidates contested an election and received 1136, 7636, and 11628 votes respectively. What percentage of the total votes did the winning candidate get?",
+        "option_a": "57%",
+        "option_b": "60%",
+        "option_c": "65%",
+        "option_d": "90%",
+        "answer": "A"
+    },
+    {
+        "id": 84,
+        "category": "General Aptitude",
+        "question": "A man buys a watch for Rs. 1950 in cash and sells it for Rs. 2200 at a credit of 1 year. If the rate of interest is 10% per annum, the man:",
+        "option_a": "gains Rs. 55",
+        "option_b": "gains Rs. 50",
+        "option_c": "loses Rs. 30",
+        "option_d": "gains Rs. 30",
+        "answer": "B"
+    },
+    {
+        "id": 85,
+        "category": "General Aptitude",
+        "question": "An error of 2% in excess is made while measuring the side of a square. The percentage of error in the calculated area is:",
+        "option_a": "2%",
+        "option_b": "2.02%",
+        "option_c": "4%",
+        "option_d": "4.04%",
+        "answer": "D"
+    },
+    {
+        "id": 86,
+        "category": "General Aptitude",
+        "question": "In a shower, 5 cm of rain falls. The volume of water that falls on 1.5 hectares of ground is:",
+        "option_a": "75 cu. m",
+        "option_b": "750 cu. m",
+        "option_c": "7500 cu. m",
+        "option_d": "75000 cu. m",
+        "answer": "B"
+    },
+    {
+        "id": 87,
+        "category": "General Aptitude",
+        "question": "The ratio between the length and breadth of a rectangular park is 3:2. If a man cycling along the boundary at 12 km/hr completes one round in 8 minutes, the area of the park is:",
+        "option_a": "15360 sq. m",
+        "option_b": "153600 sq. m",
+        "option_c": "30720 sq. m",
+        "option_d": "307200 sq. m",
+        "answer": "B"
+    },
+    {
+        "id": 88,
+        "category": "General Aptitude",
+        "question": "The slant height of a right circular cone is 10 m and its height is 8 m. Find the area of its curved surface:",
+        "option_a": "30 m²",
+        "option_b": "40 m²",
+        "option_c": "60 m²",
+        "option_d": "80 m²",
+        "answer": "C"
+    },
+    {
+        "id": 89,
+        "category": "General Aptitude",
+        "question": "If 40% of a number is equal to two-third of another number, what is the ratio of the first number to the second number?",
+        "option_a": "02:05",
+        "option_b": "03:07",
+        "option_c": "05:03",
+        "option_d": "07:03",
+        "answer": "C"
+    },
+    {
+        "id": 90,
+        "category": "General Aptitude",
+        "question": "In a bag, there are coins of 25 p, 10 p, and 5 p in the ratio of 1 : 2 : 3. If there is Rs. 30 in all, how many 5 p coins are there?",
+        "option_a": "50",
+        "option_b": "100",
+        "option_c": "150",
+        "option_d": "200",
+        "answer": "C"
+    },
+    {
+        "id": 91,
+        "category": "General Aptitude",
+        "question": "A man takes loan from a bank at 12% p.a. simple interest. After 3 years, he paid Rs. 5400 as interest. What was the principal amount?",
+        "option_a": "Rs. 2000",
+        "option_b": "Rs. 10,000",
+        "option_c": "Rs. 15,000",
+        "option_d": "Rs. 20,000",
+        "answer": "C"
+    },
+    {
+        "id": 92,
+        "category": "General Aptitude",
+        "question": "A flagstaff 17.5 m high casts a shadow 40.25 m long. What is the height of a building that casts a shadow 28.75 m long under similar conditions?",
+        "option_a": "10 m",
+        "option_b": "12.5 m",
+        "option_c": "17.5 m",
+        "option_d": "21.25 m",
+        "answer": "B"
+    },
+    {
+        "id": 93,
+        "category": "General Aptitude",
+        "question": "The reflex angle between the hands of a clock at 10:25 is:",
+        "option_a": "180º",
+        "option_b": "192.5º",
+        "option_c": "195º",
+        "option_d": "197.5º",
+        "answer": "D"
+    },
+    {
+        "id": 94,
+        "category": "General Aptitude",
+        "question": "The diagonal of a rectangle is 41 cm, and its area is 20 cm². What is the perimeter of the rectangle?",
+        "option_a": "9 cm",
+        "option_b": "18 cm",
+        "option_c": "20 cm",
+        "option_d": "41 cm",
+        "answer": "B"
+    },
+    {
+        "id": 95,
+        "category": "General Aptitude",
+        "question": "A, B, and C can complete a task in 24, 6, and 12 days respectively. How many days will they take to finish the task if working together?",
+        "option_a": "1 day",
+        "option_b": "7/24 day",
+        "option_c": "3 3/7 days",
+        "option_d": "4 days",
+        "answer": "C"
+    },
+    {
+        "id": 96,
+        "category": "General Aptitude",
+        "question": "Two trains running in opposite directions cross a man standing on the platform in 27 seconds and 17 seconds respectively, and they cross each other in 23 seconds. The ratio of their speeds is:",
+        "option_a": "1:3",
+        "option_b": "3:2",
+        "option_c": "3:4",
+        "option_d": "None of these",
+        "answer": "B"
+    },
+    {
+        "id": 97,
+        "category": "General Aptitude",
+        "question": "A train overtakes two persons walking along a railway track. The first one walks at 4.5 km/hr, and the other one at 5.4 km/hr. The train needs 8.4 and 8.5 seconds respectively to overtake them. What is the speed of the train?",
+        "option_a": "66 km/hr",
+        "option_b": "72 km/hr",
+        "option_c": "78 km/hr",
+        "option_d": "81 km/hr",
+        "answer": "D"
+    },
+    {
+        "id": 98,
+        "category": "General Aptitude",
+        "question": "A train of 240 meters long passes a pole in 24 seconds. How long will it take to pass a platform 650 meters long?",
+        "option_a": "65 sec",
+        "option_b": "89 sec",
+        "option_c": "100 sec",
+        "option_d": "150 sec",
+        "answer": "B"
+    },
+    {
+        "id": 99,
+        "category": "General Aptitude",
+        "question": "How many seconds will a 500-meter-long train take to cross a man walking with a speed of 3 km/hr in the direction of the moving train if the speed of the train is 63 km/hr?",
+        "option_a": "25 sec",
+        "option_b": "30 sec",
+        "option_c": "40 sec",
+        "option_d": "45 sec",
+        "answer": "B"
+    },
+    {
+        "id": 100,
+        "category": "General Aptitude",
+        "question": "In a 500 m race, the ratio of the speeds of two contestants A and B is 3 : 4. A has a start of 140 m. Then, A wins by:",
+        "option_a": "60 m",
+        "option_b": "40 m",
+        "option_c": "20 m",
+        "option_d": "10 m",
+        "answer": "C"
+    },
+    {
+        "id": 101,
+        "category": "General Aptitude",
+        "question": "A boatman goes 2 km against the current of the stream in 1 hour and goes 1 km along the current in 10 minutes. How long will it take to go 5 km in stationary water?",
+        "option_a": "40 minutes",
+        "option_b": "1 hour",
+        "option_c": "1 hr 15 min",
+        "option_d": "1 hr 30 min",
+        "answer": "C"
+    },
+    {
+        "id": 102,
+        "category": "General Aptitude",
+        "question": "Two goods trains each 500 m long are running in opposite directions on parallel tracks at 45 km/hr and 30 km/hr, respectively. The time taken by the slower train to pass the driver of the faster one is:",
+        "option_a": "12 sec",
+        "option_b": "24 sec",
+        "option_c": "48 sec",
+        "option_d": "60 sec",
+        "answer": "B"
+    },
+    {
+        "id": 103,
+        "category": "General Aptitude",
+        "question": "A man sells two buffaloes for Rs. 7,820 each. On one he gains 15% and on the other, he loses 15%. His total gain or loss in the transaction is:",
+        "option_a": "2.5% gain",
+        "option_b": "2.25% loss",
+        "option_c": "2% loss",
+        "option_d": "5% loss",
+        "answer": "B"
+    },
+    {
+        "id": 104,
+        "category": "General Aptitude",
+        "question": "A metallic sheet is of rectangular shape with dimensions 48 m x 36 m. From each of its corners, a square is cut off to make an open box. If the length of the square is 8 m, the volume of the box is:",
+        "option_a": "4830 m³",
+        "option_b": "5120 m³",
+        "option_c": "6420 m³",
+        "option_d": "8960 m³",
+        "answer": "B"
+    },
+    {
+        "id": 105,
+        "category": "General Aptitude",
+        "question": "The cost price of Rs. 100 stock at 4% discount, when brokerage is 1/4%, is:",
+        "option_a": "Rs. 96",
+        "option_b": "Rs. 96.25",
+        "option_c": "Rs. 96.50",
+        "option_d": "Rs. 97",
+        "answer": "C"
+    },
+    {
+        "id": 106,
+        "category": "General Aptitude",
+        "question": "Three candidates contested an election and received 1136, 7636, and 11628 votes respectively. What percentage of the total votes did the winning candidate get?",
+        "option_a": "57%",
+        "option_b": "60%",
+        "option_c": "65%",
+        "option_d": "90%",
+        "answer": "A"
+    },
+    {
+        "id": 107,
+        "category": "General Aptitude",
+        "question": "A man buys a watch for Rs. 1950 in cash and sells it for Rs. 2200 at a credit of 1 year. If the rate of interest is 10% per annum, the man:",
+        "option_a": "gains Rs. 55",
+        "option_b": "gains Rs. 50",
+        "option_c": "loses Rs. 30",
+        "option_d": "gains Rs. 30",
+        "answer": "B"
+    },
+    {
+        "id": 108,
+        "category": "General Aptitude",
+        "question": "An error of 2% in excess is made while measuring the side of a square. The percentage of error in the calculated area is:",
+        "option_a": "2%",
+        "option_b": "2.02%",
+        "option_c": "4%",
+        "option_d": "4.04%",
+        "answer": "D"
+    },
+    {
+        "id": 109,
+        "category": "General Aptitude",
+        "question": "In a shower, 5 cm of rain falls. The volume of water that falls on 1.5 hectares of ground is:",
+        "option_a": "75 cu. m",
+        "option_b": "750 cu. m",
+        "option_c": "7500 cu. m",
+        "option_d": "75000 cu. m",
+        "answer": "B"
+    },
+    {
+        "id": 110,
+        "category": "General Aptitude",
+        "question": "The ratio between the length and breadth of a rectangular park is 3:2. If a man cycling along the boundary at 12 km/hr completes one round in 8 minutes, the area of the park is:",
+        "option_a": "15360 sq. m",
+        "option_b": "153600 sq. m",
+        "option_c": "30720 sq. m",
+        "option_d": "307200 sq. m",
+        "answer": "B"
+    },
+    {
+        "id": 111,
+        "category": "General Aptitude",
+        "question": "The slant height of a right circular cone is 10 m and its height is 8 m. Find the area of its curved surface:",
+        "option_a": "30 m²",
+        "option_b": "40 m²",
+        "option_c": "60 m²",
+        "option_d": "80 m²",
+        "answer": "C"
+    },
+    {
+        "id": 112,
+        "category": "General Aptitude",
+        "question": "A man wants to sell his scooter. There are two offers, one at Rs. 12,000 cash and the other a credit of Rs. 12,880 to be paid after 8 months, money being at 18% per annum. Which is the better offer?",
+        "option_a": "Rs. 12,000 in cash",
+        "option_b": "Rs. 12,880 at credit",
+        "option_c": "Both are equally good",
+        "option_d": "NIL",
+        "answer": "A"
+    },
+    {
+        "id": 113,
+        "category": "General Aptitude",
+        "question": "A man standing at a point P is watching the top of a tower, which makes an angle of elevation of 30º with the man's eye. The man walks some distance towards the tower to watch its top and the angle of the elevation becomes 60º. What is the distance between the base of the tower and the point P?",
+        "option_a": "43 units",
+        "option_b": "8 units",
+        "option_c": "12 units",
+        "option_d": "Data inadequate",
+        "answer": "D"
+    },
+    {
+        "id": 114,
+        "category": "General Aptitude",
+        "question": "In how many different ways can the letters of the word 'DETAIL' be arranged in such a way that the vowels occupy only the odd positions?",
+        "option_a": "32",
+        "option_b": "48",
+        "option_c": "36",
+        "option_d": "60",
+        "answer": "C"
+    },
+    {
+        "id": 115,
+        "category": "General Aptitude",
+        "question": "Two dice are tossed. The probability that the total score is a prime number is:",
+        "option_a": "1",
+        "option_b": "5/12",
+        "option_c": "1/2",
+        "option_d": "7/9",
+        "answer": "B"
+    },
+    {
+        "id": 116,
+        "category": "General Aptitude",
+        "question": "An observer 1.6 m tall is 203 m away from a tower. The angle of elevation from his eye to the top of the tower is 30º. The height of the tower is:",
+        "option_a": "21.6 m",
+        "option_b": "23.2 m",
+        "option_c": "24.72 m",
+        "option_d": "None of these",
+        "answer": "A"
+    },
+    {
+        "id": 117,
+        "category": "General Aptitude",
+        "question": "The cost price of a Rs. 100 stock at 4% discount, when brokerage is 1/4%, is:",
+        "option_a": "Rs. 95.75",
+        "option_b": "Rs. 96",
+        "option_c": "Rs. 96.25",
+        "option_d": "Rs. 104.25",
+        "answer": "C"
+    },
+    {
+        "id": 118,
+        "category": "General Aptitude",
+        "question": "If 40% of a number is equal to two-thirds of another number, what is the ratio of the first number to the second number?",
+        "option_a": "2:5",
+        "option_b": "3:7",
+        "option_c": "5:3",
+        "option_d": "7:3",
+        "answer": "C"
+    },
+    {
+        "id": 119,
+        "category": "General Aptitude",
+        "question": "In a bag, there are coins of 25 p, 10 p, and 5 p in the ratio of 1:2:3. If there is Rs. 30 in all, how many 5 p coins are there?",
+        "option_a": "50",
+        "option_b": "100",
+        "option_c": "150",
+        "option_d": "200",
+        "answer": "C"
+    },
+    {
+        "id": 120,
+        "category": "General Aptitude",
+        "question": "A fires 5 shots to B's 3, but A kills only once in 3 shots while B kills once in 2 shots. When B has missed 27 times, A has killed:",
+        "option_a": "30 birds",
+        "option_b": "60 birds",
+        "option_c": "72 birds",
+        "option_d": "90 birds",
+        "answer": "A"
+    },
+    {
+        "id": 121,
+        "category": "General Aptitude",
+        "question": "A train covers a certain distance at a speed of 300 km/hr, and the same distance at 200 km/hr. Find the average speed of the train:",
+        "option_a": "240 km/hr",
+        "option_b": "225 km/hr",
+        "option_c": "250 km/hr",
+        "option_d": "275 km/hr",
+        "answer": "A"
+    },
+    {
+        "id": 122,
+        "category": "General Aptitude",
+        "question": "Two students appeared at an examination. One of them secured 9 marks more than the other, and his marks were 56% of the sum of their marks. What are the marks obtained by them?",
+        "option_a": "42, 33",
+        "option_b": "42, 36",
+        "option_c": "44, 33",
+        "option_d": "44, 36",
+        "answer": "A"
+    },
+    {
+        "id": 123,
+        "category": "General Aptitude",
+        "question": "Two trains are running in opposite directions at 60 km/hr and 90 km/hr. If the length of each train is 500 m, how long will it take for the trains to cross each other?",
+        "option_a": "20 sec",
+        "option_b": "25 sec",
+        "option_c": "30 sec",
+        "option_d": "35 sec",
+        "answer": "A"
+    },
+    {
+        "id": 124,
+        "category": "General Aptitude",
+        "question": "A certain amount earns simple interest of Rs. 1200 after 10 years. Had the interest been 2% more, how much more interest would it have earned?",
+        "option_a": "Rs. 25",
+        "option_b": "None of these",
+        "option_c": "Rs. 120",
+        "option_d": "Cannot be determined",
+        "answer": "C"
+    },
+    {
+        "id": 125,
+        "category": "General Aptitude",
+        "question": "A man took a loan from a bank at the rate of 8% p.a. simple interest. After 4 years he had to pay Rs. 6200 as interest only for the period. The principal amount borrowed by him was:",
+        "option_a": "Rs. 17322",
+        "option_b": "Rs. 20245",
+        "option_c": "Rs. 18230",
+        "option_d": "Rs. 19375",
+        "answer": "C"
+    },
+    {
+        "id": 126,
+        "category": "General Aptitude",
+        "question": "A and B can do a piece of work in 45 days and 40 days, respectively. They began to work together, but A leaves after some days and B completes the remaining work in 23 days. After how many days did A leave?",
+        "option_a": "9",
+        "option_b": "11",
+        "option_c": "12",
+        "option_d": "15",
+        "answer": "A"
+    },
+    {
+        "id": 127,
+        "category": "General Aptitude",
+        "question": "The sum of ages of 5 children born at intervals of 3 years each is 50 years. What is the age of the youngest child?",
+        "option_a": "4 years",
+        "option_b": "8 years",
+        "option_c": "10 years",
+        "option_d": "None of these",
+        "answer": "A"
+    },
+    {
+        "id": 128,
+        "category": "General Aptitude",
+        "question": "A father said to his son, \"I was as old as you are at the present at the time of your birth\". If the father's age is 38 years now, the son's age five years back was:",
+        "option_a": "14 years",
+        "option_b": "19 years",
+        "option_c": "33 years",
+        "option_d": "38 years",
+        "answer": "A"
+    },
+    {
+        "id": 129,
+        "category": "General Aptitude",
+        "question": "A sum of Rs. 1360 has been divided among A, B, and C such that A gets 1/2 of what B gets, and B gets 1/3 of what C gets. B's share is:",
+        "option_a": "Rs. 120",
+        "option_b": "Rs. 160",
+        "option_c": "Rs. 240",
+        "option_d": "Rs. 300",
+        "answer": "C"
+    },
+    {
+        "id": 130,
+        "category": "General Aptitude",
+        "question": "A man can swim downstream at 6 km/hr and upstream at 2 km/hr. His speed in still water is:",
+        "option_a": "4 km/hr",
+        "option_b": "2 km/hr",
+        "option_c": "6 km/hr",
+        "option_d": "1 km/hr",
+        "answer": "A"
+    },
+    {
+        "id": 131,
+        "category": "General Aptitude",
+        "question": "Robert is traveling on his cycle and has calculated to reach point A at 2 P.M. if he travels at 10 kmph, he will reach there at 12 noon if he travels at 15 kmph. At what speed must he travel to reach A at 1 P.M.?",
+        "option_a": "8 kmph",
+        "option_b": "11 kmph",
+        "option_c": "12 kmph",
+        "option_d": "14 kmph",
+        "answer": "C"
+    },
+    {
+        "id": 132,
+        "category": "General Aptitude",
+        "question": "A man rows to a place 48 km distant and comes back in 14 hours. He finds that he can row 4 km with the stream in the same time as 3 km against the stream. The rate of the stream is:",
+        "option_a": "1 km/hr",
+        "option_b": "1.5 km/hr",
+        "option_c": "2 km/hr",
+        "option_d": "2.5 km/hr",
+        "answer": "A"
+    },
+    {
+        "id": 133,
+        "category": "General Aptitude",
+        "question": "In what ratio must a grocer mix two varieties of pulses costing Rs. 15 and Rs. 20 per kg respectively so as to get a mixture worth Rs. 16.50 per kg?",
+        "option_a": "3:7",
+        "option_b": "5:7",
+        "option_c": "7:3",
+        "option_d": "7:5",
+        "answer": "C"
+    },
+    {
+        "id": 134,
+        "category": "General Aptitude",
+        "question": "A, B, and C can do a piece of work in 20, 30, and 60 days, respectively. In how many days can A do the work if he is assisted by B and C on every third day?",
+        "option_a": "12 days",
+        "option_b": "15 days",
+        "option_c": "16 days",
+        "option_d": "18 days",
+        "answer": "B"
+    },
+    {
+        "id": 135,
+        "category": "General Aptitude",
+        "question": "Two trains are running at 40 km/hr and 20 km/hr respectively in the same direction. The fast train completely passes a man sitting in the slower train in 5 seconds. What is the length of the fast train?",
+        "option_a": "23 m",
+        "option_b": "27 m",
+        "option_c": "29 m",
+        "option_d": "50 m",
+        "answer": "B"
+    },
+    {
+        "id": 136,
+        "category": "General Aptitude",
+        "question": "A train moves past a telegraph post and a bridge 264 m long in 8 seconds and 20 seconds respectively. What is the speed of the train?",
+        "option_a": "69.5 km/hr",
+        "option_b": "70 km/hr",
+        "option_c": "79 km/hr",
+        "option_d": "79.2 km/hr",
+        "answer": "D"
+    },
+    {
+        "id": 137,
+        "category": "General Aptitude",
+        "question": "How many seconds will a 500-meter long train take to cross a man walking with a speed of 3 km/hr in the direction of the moving train if the speed of the train is 63 km/hr?",
+        "option_a": "25",
+        "option_b": "30",
+        "option_c": "40",
+        "option_d": "45",
+        "answer": "B"
+    },
+    {
+        "id": 138,
+        "category": "General Aptitude",
+        "question": "The salaries of A, B, and C are in the ratio 2 : 3 : 5. If increments of 15%, 10%, and 20% are allowed respectively in their salaries, what will be the new ratio of their salaries?",
+        "option_a": "3:3:10",
+        "option_b": "10:11:20",
+        "option_c": "23:33:60",
+        "option_d": "Cannot be determined",
+        "answer": "C"
+    },
+    {
+        "id": 139,
+        "category": "General Aptitude",
+        "question": "The sum of ages of 5 children born at intervals of 3 years each is 50 years. What is the age of the youngest child?",
+        "option_a": "4 years",
+        "option_b": "8 years",
+        "option_c": "10 years",
+        "option_d": "None of these",
+        "answer": "A"
+    },
+    {
+        "id": 140,
+        "category": "General Aptitude",
+        "question": "A sum of Rs. 1360 has been divided among A, B, and C such that A gets 1/2 of what B gets, and B gets 1/3 of what C gets. B's share is:",
+        "option_a": "Rs. 120",
+        "option_b": "Rs. 160",
+        "option_c": "Rs. 240",
+        "option_d": "Rs. 300",
+        "answer": "C"
+    },
+    {
+        "id": 141,
+        "category": "General Aptitude",
+        "question": "An error of 2% in excess is made while measuring the side of a square. The percentage of error in the calculated area is:",
+        "option_a": "2%",
+        "option_b": "2.02%",
+        "option_c": "4%",
+        "option_d": "4.04%",
+        "answer": "D"
+    },
+    {
+        "id": 142,
+        "category": "General Aptitude",
+        "question": "In a shower, 5 cm of rain falls. The volume of water that falls on 1.5 hectares of ground is:",
+        "option_a": "75 cu. m",
+        "option_b": "750 cu. m",
+        "option_c": "7500 cu. m",
+        "option_d": "75000 cu. m",
+        "answer": "B"
+    },
+    {
+        "id": 143,
+        "category": "General Aptitude",
+        "question": "The reflex angle between the hands of a clock at 10:25 is:",
+        "option_a": "180º",
+        "option_b": "192.5º",
+        "option_c": "195º",
+        "option_d": "197.5º",
+        "answer": "D"
+    },
+    {
+        "id": 144,
+        "category": "General Aptitude",
+        "question": "Two goods trains each 500 m long are running in opposite directions on parallel tracks at 45 km/hr and 30 km/hr respectively. The time taken by the slower train to pass the driver of the faster one is:",
+        "option_a": "12 sec",
+        "option_b": "24 sec",
+        "option_c": "48 sec",
+        "option_d": "60 sec",
+        "answer": "B"
+    },
+    {
+        "id": 145,
+        "category": "General Aptitude",
+        "question": "A metallic sheet is of rectangular shape with dimensions 48 m x 36 m. From each of its corners, a square is cut off to make an open box. If the length of the square is 8 m, the volume of the box is:",
+        "option_a": "4830 m³",
+        "option_b": "5120 m³",
+        "option_c": "6420 m³",
+        "option_d": "8960 m³",
+        "answer": "B"
+    },
+    {
+        "id": 146,
+        "category": "General Aptitude",
+        "question": "A man sells two buffaloes for Rs. 7,820 each. On one he gains 15% and on the other, he loses 15%. His total gain or loss in the transaction is:",
+        "option_a": "2.5% gain",
+        "option_b": "2.25% loss",
+        "option_c": "2% loss",
+        "option_d": "5% loss",
+        "answer": "B"
+    },
+    {
+        "id": 147,
+        "category": "General Aptitude",
+        "question": "A train overtakes two persons walking along a railway track. The first one walks at 4.5 km/hr, and the other at 5.4 km/hr. The train needs 8.4 and 8.5 seconds respectively to overtake them. What is the speed of the train?",
+        "option_a": "66 km/hr",
+        "option_b": "72 km/hr",
+        "option_c": "78 km/hr",
+        "option_d": "81 km/hr",
+        "answer": "D"
+    },
+    {
+        "id": 148,
+        "category": "General Aptitude",
+        "question": "A boatman goes 2 km against the current of the stream in 1 hour and goes 1 km along the current in 10 minutes. How long will it take to go 5 km in stationary water?",
+        "option_a": "40 minutes",
+        "option_b": "1 hour",
+        "option_c": "1 hr 15 min",
+        "option_d": "1 hr 30 min",
+        "answer": "C"
+    },
+    {
+        "id": 149,
+        "category": "General Aptitude",
+        "question": "What is the volume of a 32-meter high cylindrical tank?",
+        "option_a": "4928 m³",
+        "option_b": "4820 m³",
+        "option_c": "5040 m³",
+        "option_d": "4600 m³",
+        "answer": "A"
+    },
+    {
+        "id": 150,
+        "category": "General Aptitude",
+        "question": "A, B, and C subscribe Rs. 50,000 for a business. A subscribes Rs. 4000 more than B and B Rs. 5000 more than C. Out of a total profit of Rs. 35,000, A receives:",
+        "option_a": "Rs. 8400",
+        "option_b": "Rs. 11,900",
+        "option_c": "Rs. 13,600",
+        "option_d": "Rs. 14,700",
+        "answer": "D"
+    },
+    {
+        "id": 151,
+        "category": "General Aptitude",
+        "question": "The present worth of Rs. 2310 due 2 years hence, the rate of interest being 15% per annum, is:",
+        "option_a": "Rs. 1750",
+        "option_b": "Rs. 1680",
+        "option_c": "Rs. 1840",
+        "option_d": "Rs. 1443.75",
+        "answer": "B"
+    },
+    {
+        "id": 152,
+        "category": "General Aptitude",
+        "question": "The average age of husband, wife, and their child 3 years ago was 27 years, and that of the wife and the child 5 years ago was 20 years. The present age of the husband is:",
+        "option_a": "35 years",
+        "option_b": "40 years",
+        "option_c": "50 years",
+        "option_d": "None of these",
+        "answer": "B"
+    },
+    {
+        "id": 153,
+        "category": "General Aptitude",
+        "question": "The price of 2 sarees and 4 shirts is Rs. 1600. With the same money, one can buy 1 saree and 6 shirts. If one wants to buy 12 shirts, how much shall he have to pay?",
+        "option_a": "Rs. 1200",
+        "option_b": "Rs. 2400",
+        "option_c": "Rs. 4800",
+        "option_d": "Cannot be determined",
+        "answer": "B"
+    },
+    {
+        "id": 154,
+        "category": "General Aptitude",
+        "question": "A sum of Rs. 725 is lent in the beginning of a year at a certain rate of interest. After 8 months, a sum of Rs. 362.50 more is lent but at the rate twice the former. At the end of the year, Rs. 33.50 is earned as interest from both loans. What was the original rate of interest?",
+        "option_a": "3.60%",
+        "option_b": "4.50%",
+        "option_c": "5%",
+        "option_d": "6%",
+        "answer": "C"
+    },
+    {
+        "id": 155,
+        "category": "General Aptitude",
+        "question": "The ratio between the length and breadth of a rectangular park is 3:2. If a man cycling along the boundary of the park at 12 km/hr completes one round in 8 minutes, the area of the park (in sq. m) is:",
+        "option_a": "15360",
+        "option_b": "153600",
+        "option_c": "30720",
+        "option_d": "307200",
+        "answer": "B"
+    },
+    {
+        "id": 156,
+        "category": "General Aptitude",
+        "question": "The slant height of a right circular cone is 10 m and its height is 8 m. Find the area of its curved surface:",
+        "option_a": "30 m²",
+        "option_b": "40 m²",
+        "option_c": "60 m²",
+        "option_d": "80 m²",
+        "answer": "C"
+    },
+    {
+        "id": 157,
+        "category": "General Aptitude",
+        "question": "A man wants to sell his scooter. There are two offers, one at Rs. 12,000 cash and the other a credit of Rs. 12,880 to be paid after 8 months, money being at 18% per annum. Which is the better offer?",
+        "option_a": "Rs. 12,000 in cash",
+        "option_b": "Rs. 12,880 at credit",
+        "option_c": "Both are equally good",
+        "option_d": "Neither is good",
+        "answer": "A"
+    },
+    {
+        "id": 158,
+        "category": "General Aptitude",
+        "question": "If log10 2 = 0.3010, then log2 10 is equal to:",
+        "option_a": "0.301",
+        "option_b": "0.699",
+        "option_c": "0.301",
+        "option_d": "1.301",
+        "answer": "B"
+    },
+    {
+        "id": 159,
+        "category": "General Aptitude",
+        "question": "The product of two numbers is 120, and the sum of their squares is 289. The sum of the numbers is:",
+        "option_a": "20",
+        "option_b": "23",
+        "option_c": "169",
+        "option_d": "None of these",
+        "answer": "B"
+    },
+    {
+        "id": 160,
+        "category": "General Aptitude",
+        "question": "The banker's discount of a certain sum of money is Rs. 72 and the true discount on the same sum for the same time is Rs. 60. The sum due is:",
+        "option_a": "Rs. 360",
+        "option_b": "Rs. 432",
+        "option_c": "Rs. 540",
+        "option_d": "Rs. 1080",
+        "answer": "A"
+    },
+    {
+        "id": 161,
+        "category": "CSE",
+        "question": "Which if the following is/are the levels of implementation of data structure ?",
+        "option_a": "Abstract level",
+        "option_b": "Application level",
+        "option_c": "Implementation level",
+        "option_d": "All of the above",
+        "answer": "D"
+    },
+    {
+        "id": 162,
+        "category": "CSE",
+        "question": "A binary search tree whose left subtree and right subtree differ in hight by at most 1 unit is called ?",
+        "option_a": "AVL tree",
+        "option_b": "Red-black tree",
+        "option_c": "Lemma tree",
+        "option_d": "None of the above",
+        "answer": "A"
+    },
+    {
+        "id": 163,
+        "category": "CSE",
+        "question": "What is the time complexity of inserting an element at the end of an array?",
+        "option_a": "O(1)",
+        "option_b": "O(nlogn)",
+        "option_c": "O(log n)",
+        "option_d": "O(n)",
+        "answer": "A"
+    },
+    {
+        "id": 164,
+        "category": "CSE",
+        "question": "Which data structure is best suited for implementing a recursive algorithm?",
+        "option_a": "Stack",
+        "option_b": "Queue",
+        "option_c": "Array",
+        "option_d": "Linked List",
+        "answer": "A"
+    },
+    {
+        "id": 165,
+        "category": "CSE",
+        "question": "In a binary search tree which traversal visits the nodes in ascending order?",
+        "option_a": "Preorder",
+        "option_b": "Inorder",
+        "option_c": "Postorder",
+        "option_d": "Levelorder",
+        "answer": "B"
+    },
+    {
+        "id": 166,
+        "category": "CSE",
+        "question": "Which sorting algorithm has the best average-case time complexity?",
+        "option_a": "Merge Sort",
+        "option_b": "Selection sort",
+        "option_c": "Insertion Sort",
+        "option_d": "Bubble sort",
+        "answer": "A"
+    },
+    {
+        "id": 167,
+        "category": "CSE",
+        "question": "What is the worst-case time complexity of quicksort?",
+        "option_a": "O(n)",
+        "option_b": "O(nlogn)",
+        "option_c": "O(n^2)",
+        "option_d": "O(log n)",
+        "answer": "C"
+    },
+    {
+        "id": 168,
+        "category": "CSE",
+        "question": "Which data structure is used in Depth First Search (DFS) algorithm?",
+        "option_a": "Queue",
+        "option_b": "Stack",
+        "option_c": "Heap",
+        "option_d": "Linked List",
+        "answer": "B"
+    },
+    {
+        "id": 169,
+        "category": "CSE",
+        "question": "What is the purpose of a hash table in data structures?",
+        "option_a": "To store data in a sorted manner",
+        "option_b": "To implement priority queues",
+        "option_c": "To provide constant-time access to elements",
+        "option_d": "To sort elements efficiently",
+        "answer": "C"
+    },
+    {
+        "id": 170,
+        "category": "CSE",
+        "question": "Which data structure is used to implement a LIFO behavior?",
+        "option_a": "Queue",
+        "option_b": "Stack",
+        "option_c": "Heap",
+        "option_d": "Tree",
+        "answer": "A"
+    },
+    {
+        "id": 171,
+        "category": "CSE",
+        "question": "What is the time complexity of finding an element in a binary search tree?",
+        "option_a": "O(n)",
+        "option_b": "O(nlogn)",
+        "option_c": "O(log n)",
+        "option_d": "O(n^2)",
+        "answer": "C"
+    },
+    {
+        "id": 172,
+        "category": "CSE",
+        "question": "Which data structure is suitable for implementing a breadth-first search (BFS) algorithm?",
+        "option_a": "Queue",
+        "option_b": "Stack",
+        "option_c": "LinkedList",
+        "option_d": "Heap",
+        "answer": "A"
+    },
+    {
+        "id": 173,
+        "category": "CSE",
+        "question": "Which data structure is typically used to implement a priority queue?",
+        "option_a": "Heap",
+        "option_b": "Stack",
+        "option_c": "Queue",
+        "option_d": "LinkedList",
+        "answer": "A"
+    },
+    {
+        "id": 174,
+        "category": "CSE",
+        "question": "What is the time complexity of searching for an element in a hash table with a good hash function?",
+        "option_a": "O(n)",
+        "option_b": "O(nlogn)",
+        "option_c": "O(n^2)",
+        "option_d": "O(1)",
+        "answer": "D"
+    },
+    {
+        "id": 175,
+        "category": "CSE",
+        "question": "Which sorting algorithm is known for its stability?",
+        "option_a": "Merge Sort",
+        "option_b": "Selection sort",
+        "option_c": "Quick Sort",
+        "option_d": "Insertion Sort",
+        "answer": "A"
+    },
+    {
+        "id": 176,
+        "category": "CSE",
+        "question": "In a binary search tree which operation is used to find the minimum element?",
+        "option_a": "findMin()",
+        "option_b": "getMin()",
+        "option_c": "minElement()",
+        "option_d": "minValue()",
+        "answer": "A"
+    },
+    {
+        "id": 177,
+        "category": "CSE",
+        "question": "Which data structure is used to implement a disjoint-set data structure efficiently?",
+        "option_a": "Array",
+        "option_b": "Heap",
+        "option_c": "Disjoint-Set Forest",
+        "option_d": "Linked List",
+        "answer": "C"
+    },
+    {
+        "id": 178,
+        "category": "CSE",
+        "question": "What is the time complexity of finding the shortest path in a weighted graph using Dijkstra's algorithm?",
+        "option_a": "O(E log V)",
+        "option_b": "O( E )",
+        "option_c": "O(V)",
+        "option_d": "O(V log V)",
+        "answer": "A"
+    },
+    {
+        "id": 179,
+        "category": "CSE",
+        "question": "Which data structure is used to implement a cache with a least recently used (LRU) eviction policy?",
+        "option_a": "Queue",
+        "option_b": "Stack",
+        "option_c": "LinkedList",
+        "option_d": "Hash Table",
+        "answer": "B"
+    },
+    {
+        "id": 180,
+        "category": "CSE",
+        "question": "What is the time complexity of inserting an element in a heap data structure?",
+        "option_a": "O(n)",
+        "option_b": "O(nlogn)",
+        "option_c": "O(1)",
+        "option_d": "O(log n)",
+        "answer": "D"
+    },
+    {
+        "id": 181,
+        "category": "CSE",
+        "question": "Which algorithm is used to find the strongly connected components in a directed graph?",
+        "option_a": "Dijkstra's Algorithm",
+        "option_b": "Prim's Algorithm",
+        "option_c": "Bellman-Ford Algorithm",
+        "option_d": "Tarjan's Algorithm",
+        "answer": "D"
+    },
+    {
+        "id": 182,
+        "category": "CSE",
+        "question": "What is the time complexity of the best-case scenario for quicksort?",
+        "option_a": "O(n)",
+        "option_b": "O(nlogn)",
+        "option_c": "O(n^2)",
+        "option_d": "O(log n)",
+        "answer": "B"
+    },
+    {
+        "id": 183,
+        "category": "CSE",
+        "question": "Worst Case Time complexity of accessing an element from a Linked List",
+        "option_a": "O(n)",
+        "option_b": "O(nlogn)",
+        "option_c": "O(n^2)",
+        "option_d": "O(log n)",
+        "answer": "A"
+    },
+    {
+        "id": 184,
+        "category": "CSE",
+        "question": "Which of the following is not a fundamental data type in C?",
+        "option_a": "int",
+        "option_b": "String",
+        "option_c": "double",
+        "option_d": "float",
+        "answer": "B"
+    },
+    {
+        "id": 185,
+        "category": "CSE",
+        "question": "Which of the following is not a valid access specifier in Java?",
+        "option_a": "private",
+        "option_b": "public",
+        "option_c": "internal",
+        "option_d": "protected",
+        "answer": "C"
+    },
+    {
+        "id": 186,
+        "category": "CSE",
+        "question": "What is the purpose of the final keyword in Java?",
+        "option_a": "To declare a constant variable",
+        "option_b": "To prevent method overriding",
+        "option_c": "To prevent class inheritance",
+        "option_d": "All of the above",
+        "answer": "D"
+    },
+    {
+        "id": 187,
+        "category": "CSE",
+        "question": "Which of the following is not a valid loop statement in Python?",
+        "option_a": "for",
+        "option_b": "while",
+        "option_c": "do-while",
+        "option_d": "None of the above",
+        "answer": "C"
+    },
+    {
+        "id": 188,
+        "category": "CSE",
+        "question": "What is the purpose of the __init__ method in Python?",
+        "option_a": "To define a constructor for a class",
+        "option_b": "To define a destructor for a class",
+        "option_c": "To define a static method for a class",
+        "option_d": "To define a class method",
+        "answer": "A"
+    },
+    {
+        "id": 189,
+        "category": "CSE",
+        "question": "Which of the following is not a valid HTTP method?",
+        "option_a": "GET",
+        "option_b": "POST",
+        "option_c": "PUT",
+        "option_d": "EXECUTE",
+        "answer": "D"
+    },
+    {
+        "id": 190,
+        "category": "CSE",
+        "question": "What is the purpose of the JOIN clause in SQL?",
+        "option_a": "To combine rows from two or more tables based on a related column between them",
+        "option_b": "To filter rows based on a specified condition",
+        "option_c": "To group rows that have the same values into summary rows",
+        "option_d": "To sort the result set in ascending or descending order",
+        "answer": "A"
+    },
+    {
+        "id": 191,
+        "category": "CSE",
+        "question": "Which of the following is not a valid normalization form?",
+        "option_a": "1NF",
+        "option_b": "2NF",
+        "option_c": "3NF",
+        "option_d": "5NF",
+        "answer": "D"
+    },
+    {
+        "id": 192,
+        "category": "CSE",
+        "question": "What is the purpose of the HAVING clause in SQL?",
+        "option_a": "To filter rows based on a specified condition",
+        "option_b": "To group rows that have the same values into summary rows",
+        "option_c": "To filter groups based on a specified condition",
+        "option_d": "To sort the result set in ascending or descending order",
+        "answer": "C"
+    },
+    {
+        "id": 193,
+        "category": "CSE",
+        "question": "What is the primary goal of machine learning?",
+        "option_a": "To program computers without human intervention",
+        "option_b": "To enable computers to learn from data and improve performance over time",
+        "option_c": "To create AI systems that can outperform humans",
+        "option_d": "To develop complex algorithms for data processing",
+        "answer": "B"
+    },
+    {
+        "id": 194,
+        "category": "CSE",
+        "question": "Which type of machine learning algorithm is trained on labeled data to make predictions on new unseen data?",
+        "option_a": "Unsupervised Learning",
+        "option_b": "Reinforcement Learning",
+        "option_c": "Semi-supervised Learning",
+        "option_d": "Supervised Learning",
+        "answer": "D"
+    },
+    {
+        "id": 195,
+        "category": "CSE",
+        "question": "What is the process of preparing raw data by cleaning transforming and normalizing it for machine learning?",
+        "option_a": "Data Preprocessing",
+        "option_b": "Data Engineering",
+        "option_c": "Data Wrangling",
+        "option_d": "Data Augmentation",
+        "answer": "A"
+    },
+    {
+        "id": 196,
+        "category": "CSE",
+        "question": "In unsupervised learning the primary task is:",
+        "option_a": "Predicting an output value based on input data",
+        "option_b": "Discovering patterns or structures in data",
+        "option_c": "Maximizing cumulative rewards through interactions with the environment",
+        "option_d": "Learning from expert demonstrations",
+        "answer": "B"
+    },
+    {
+        "id": 197,
+        "category": "CSE",
+        "question": "Which machine learning algorithm is inspired by the behavior of neurons in the human brain?",
+        "option_a": "Decision Trees",
+        "option_b": "k-Nearest Neighbors (k-NN)",
+        "option_c": "Support Vector Machines (SVM)",
+        "option_d": "Artificial Neural Networks (ANN)",
+        "answer": "D"
+    },
+    {
+        "id": 198,
+        "category": "CSE",
+        "question": "What is the process of feeding a machine learning model with data to adjust its internal parameters and improve performance?",
+        "option_a": "Model Validation",
+        "option_b": "Model Optimization",
+        "option_c": "Model Training",
+        "option_d": "Model Testing",
+        "answer": "C"
+    },
+    {
+        "id": 199,
+        "category": "CSE",
+        "question": "The loss function in a machine learning model measures:",
+        "option_a": "The number of features used in the model",
+        "option_b": "The complexity of the model",
+        "option_c": "The difference between predicted and actual values",
+        "option_d": "The time taken to train the model",
+        "answer": "C"
+    },
+    {
+        "id": 200,
+        "category": "CSE",
+        "question": "What is the name of the technique used to deal with overfitting in machine learning models?",
+        "option_a": "Underfitting",
+        "option_b": "Regularization",
+        "option_c": "Feature Engineering",
+        "option_d": "Cross-validation",
+        "answer": "B"
+    },
+    {
+        "id": 201,
+        "category": "CSE",
+        "question": "Which machine learning algorithm is commonly used for classification tasks and is based on finding the best hyperplane that separates data points into different classes?",
+        "option_a": "Decision Trees",
+        "option_b": "Support Vector Machines (SVM)",
+        "option_c": "Random Forest",
+        "option_d": "k-Nearest Neighbors (k-NN)",
+        "answer": "B"
+    },
+    {
+        "id": 202,
+        "category": "CSE",
+        "question": "What is the purpose of feature scaling in machine learning?",
+        "option_a": "To normalize the range of independent variables",
+        "option_b": "To add new features to the dataset",
+        "option_c": "To reduce the number of features",
+        "option_d": "To remove outliers from the dataset",
+        "answer": "A"
+    },
+    {
+        "id": 203,
+        "category": "CSE",
+        "question": "What is the purpose of the bias term in a machine learning model?",
+        "option_a": "To introduce randomness into the model",
+        "option_b": "To shift the decision boundary of the model",
+        "option_c": "To control the complexity of the model",
+        "option_d": "To provide a constant offset for the model's predictions",
+        "answer": "D"
+    },
+    {
+        "id": 204,
+        "category": "CSE",
+        "question": "Which machine learning algorithm is used for dimensionality reduction and can capture the most important features in a dataset?",
+        "option_a": "Principal Component Analysis (PCA)",
+        "option_b": "Linear Discriminant Analysis (LDA)",
+        "option_c": "t-SNE (t-Distributed Stochastic Neighbor Embedding)",
+        "option_d": "Autoencoders",
+        "answer": "A"
+    },
+    {
+        "id": 205,
+        "category": "CSE",
+        "question": "What is the purpose of the activation function in an artificial neural network?",
+        "option_a": "To introduce non-linearity into the model",
+        "option_b": "To control the learning rate of the model",
+        "option_c": "To prevent overfitting in the model",
+        "option_d": "To initialize the weights of the model",
+        "answer": "A"
+    },
+    {
+        "id": 206,
+        "category": "CSE",
+        "question": "Which machine learning algorithm is used for clustering data points into groups based on their similarity?",
+        "option_a": "k-Means Clustering",
+        "option_b": "Hierarchical Clustering",
+        "option_c": "DBSCAN (Density-Based Spatial Clustering of Applications with Noise)",
+        "option_d": "All of the above",
+        "answer": "D"
+    },
+    {
+        "id": 207,
+        "category": "CSE",
+        "question": "What is the purpose of the validation set in machine learning?",
+        "option_a": "To train the model",
+        "option_b": "To evaluate the performance of the model during training",
+        "option_c": "To tune the hyperparameters of the model",
+        "option_d": "To test the final performance of the model",
+        "answer": "C"
+    },
+    {
+        "id": 208,
+        "category": "CSE",
+        "question": "Which machine learning algorithm is used for anomaly detection and can identify outliers in a dataset?",
+        "option_a": "Isolation Forest",
+        "option_b": "One-Class SVM",
+        "option_c": "Local Outlier Factor (LOF)",
+        "option_d": "All of the above",
+        "answer": "D"
+    },
+    {
+        "id": 209,
+        "category": "CSE",
+        "question": "What is the purpose of the learning rate in a machine learning model?",
+        "option_a": "To control the step size during optimization",
+        "option_b": "To prevent overfitting in the model",
+        "option_c": "To initialize the weights of the model",
+        "option_d": "To introduce randomness into the model",
+        "answer": "A"
+    },
+    {
+        "id": 210,
+        "category": "CSE",
+        "question": "Which machine learning algorithm is used for recommendation systems and can predict the preferences of users based on their past behavior?",
+        "option_a": "Collaborative Filtering",
+        "option_b": "Content-Based Filtering",
+        "option_c": "Matrix Factorization",
+        "option_d": "All of the above",
+        "answer": "D"
+    },
+    {
+        "id": 211,
+        "category": "CSE",
+        "question": "What is the purpose of the regularization parameter in a machine learning model?",
+        "option_a": "To control the complexity of the model",
+        "option_b": "To introduce non-linearity into the model",
+        "option_c": "To prevent overfitting in the model",
+        "option_d": "To tune the learning rate of the model",
+        "answer": "A"
+    },
+    {
+        "id": 212,
+        "category": "CSE",
+        "question": "Which machine learning algorithm is used for natural language processing tasks and can generate human-like text?",
+        "option_a": "Recurrent Neural Networks (RNNs)",
+        "option_b": "Long Short-Term Memory (LSTMs)",
+        "option_c": "Transformers",
+        "option_d": "All of the above",
+        "answer": "D"
+    },
+    {
+        "id": 213,
+        "category": "CSE",
+        "question": "Which Experiment says that light is a wave?",
+        "option_a": "young's double slith Experiment",
+        "option_b": "Fizeu's method",
+        "option_c": "compton scattering",
+        "option_d": "Michel-Morley Experiment",
+        "answer": "A"
+    },
+    {
+        "id": 214,
+        "category": "CSE",
+        "question": "What is the purpose of the const keyword in C++?",
+        "option_a": "To declare a constant variable",
+        "option_b": "To declare a static variable",
+        "option_c": "To declare a pointer to a constant variable",
+        "option_d": "All of the above",
+        "answer": "D"
+    },
+    {
+        "id": 215,
+        "category": "CSE",
+        "question": "Which of the following is not a valid access specifier in Java?",
+        "option_a": "public",
+        "option_b": "private",
+        "option_c": "protected",
+        "option_d": "internal",
+        "answer": "D"
+    },
+    {
+        "id": 216,
+        "category": "CSE",
+        "question": "What is the purpose of the break statement in a loop?",
+        "option_a": "To exit the current iteration of the loop",
+        "option_b": "To exit the entire loop",
+        "option_c": "To skip the current iteration of the loop",
+        "option_d": "To continue to the next iteration of the loop",
+        "answer": "B"
+    },
+    {
+        "id": 217,
+        "category": "CSE",
+        "question": "What is the purpose of the continue statement in a loop?",
+        "option_a": "To exit the current iteration of the loop",
+        "option_b": "To exit the entire loop",
+        "option_c": "To continue to the next iteration of the loop",
+        "option_d": "To skip the current iteration of the loop",
+        "answer": "D"
+    },
+    {
+        "id": 218,
+        "category": "CSE",
+        "question": "What is the purpose of the static keyword in C++?",
+        "option_a": "To declare a variable with global scope",
+        "option_b": "To declare a variable with local scope",
+        "option_c": "To declare a variable with static storage duration",
+        "option_d": "To declare a variable with dynamic storage duration",
+        "answer": "C"
+    },
+    {
+        "id": 219,
+        "category": "CSE",
+        "question": "What is the purpose of the virtual keyword in C++?",
+        "option_a": "To declare a virtual function",
+        "option_b": "To declare a pure virtual function",
+        "option_c": "To declare a virtual base class",
+        "option_d": "All of the above",
+        "answer": "D"
+    },
+    {
+        "id": 220,
+        "category": "CSE",
+        "question": "What is the purpose of the abstract keyword in Java?",
+        "option_a": "To declare an abstract class",
+        "option_b": "To declare an abstract method",
+        "option_c": "To declare an interface",
+        "option_d": "All of the above",
+        "answer": "D"
+    },
+    {
+        "id": 221,
+        "category": "CSE",
+        "question": "What is the purpose of the interface keyword in Java?",
+        "option_a": "To define a contract for classes to implement",
+        "option_b": "To define a class that cannot be instantiated",
+        "option_c": "To define a class that can be extended by other classes",
+        "option_d": "To define a class that can be used as a template for creating objects",
+        "answer": "A"
+    },
+    {
+        "id": 222,
+        "category": "CSE",
+        "question": "What is the purpose of the yield statement in Python?",
+        "option_a": "To exit a function and return a value",
+        "option_b": "To pause the execution of a function and return a value",
+        "option_c": "To raise an exception in a function",
+        "option_d": "To define a generator function",
+        "answer": "B"
+    },
+    {
+        "id": 223,
+        "category": "CSE",
+        "question": "What is the purpose of the lambda keyword in Python?",
+        "option_a": "To define a function with a single expression",
+        "option_b": "To define a function with multiple expressions",
+        "option_c": "To define a function with a name",
+        "option_d": "To define a function with a return statement",
+        "answer": "A"
+    },
+    {
+        "id": 224,
+        "category": "CSE",
+        "question": "What is the purpose of the try-except block in Python?",
+        "option_a": "To handle exceptions that may occur during the execution of a program",
+        "option_b": "To define a function that may raise an exception",
+        "option_c": "To define a module that may raise an exception",
+        "option_d": "To define a class that may raise an exception",
+        "answer": "A"
+    },
+    {
+        "id": 225,
+        "category": "CSE",
+        "question": "What is the purpose of the super() function in Python",
+        "option_a": "To call a method in a parent class from a child class",
+        "option_b": "To create a new instance of a class",
+        "option_c": "To define a class method",
+        "option_d": "To define a static method",
+        "answer": "A"
+    },
+    {
+        "id": 226,
+        "category": "CSE",
+        "question": "Which of the following is not a programming language?",
+        "option_a": "Python",
+        "option_b": "C++",
+        "option_c": "ASCII",
+        "option_d": "Java",
+        "answer": "C"
+    },
+    {
+        "id": 227,
+        "category": "CSE",
+        "question": "Which of the following is not a data structure?",
+        "option_a": "Algorithm",
+        "option_b": "Stack",
+        "option_c": "Linked List",
+        "option_d": "Array",
+        "answer": "A"
+    },
+    {
+        "id": 228,
+        "category": "CSE",
+        "question": "What is the time complexity of the binary search algorithm?",
+        "option_a": "O(n)",
+        "option_b": "O(nlogn)",
+        "option_c": "O(n^2)",
+        "option_d": "O(log n)",
+        "answer": "D"
+    },
+    {
+        "id": 229,
+        "category": "CSE",
+        "question": "Which of the following is not a type of software testing?",
+        "option_a": "Unit testing",
+        "option_b": "System testing",
+        "option_c": "Integration testing",
+        "option_d": "Functional testing",
+        "answer": "D"
+    },
+    {
+        "id": 230,
+        "category": "CSE",
+        "question": "What is the primary purpose of a database management system (DBMS)?",
+        "option_a": "To provide a user interface for the database",
+        "option_b": "To store data in the database",
+        "option_c": "To manage and manipulate data in the database",
+        "option_d": "To provide security for the database",
+        "answer": "C"
+    },
+    {
+        "id": 231,
+        "category": "CSE",
+        "question": "What is the primary function of a switch in a network?",
+        "option_a": "To provide a firewall",
+        "option_b": "To connect multiple networks",
+        "option_c": "To forward data packets to the appropriate device",
+        "option_d": "To convert data from analog to digital",
+        "answer": "C"
+    },
+    {
+        "id": 232,
+        "category": "CSE",
+        "question": "Which of the following is not a type of malware?",
+        "option_a": "Worm",
+        "option_b": "Virus",
+        "option_c": "Trojan horse",
+        "option_d": "Firewall",
+        "answer": "D"
+    },
+    {
+        "id": 233,
+        "category": "CSE",
+        "question": "What is the primary purpose of normalization in a database?",
+        "option_a": "To reduce data redundancy and improve data integrity",
+        "option_b": "To increase data redundancy and improve data security",
+        "option_c": "To provide a user interface for the database",
+        "option_d": "To store data in the database",
+        "answer": "A"
+    },
+    {
+        "id": 234,
+        "category": "CSE",
+        "question": "Which of the following is not a type of cloud computing?",
+        "option_a": "IaaS",
+        "option_b": "Paas",
+        "option_c": "Saas",
+        "option_d": "Laas",
+        "answer": "D"
+    },
+    {
+        "id": 235,
+        "category": "CSE",
+        "question": "What is the primary purpose of a compiler in programming?",
+        "option_a": "To convert high-level language into machine language",
+        "option_b": "To find errors in the program",
+        "option_c": "To provide a user interface for the program",
+        "option_d": "To document the program",
+        "answer": "A"
+    },
+    {
+        "id": 236,
+        "category": "CSE",
+        "question": "What is the primary function of a router in a network?",
+        "option_a": "To provide a firewall",
+        "option_b": "To connect multiple networks",
+        "option_c": "To amplify the signal",
+        "option_d": "To forward data packets to the appropriate device",
+        "answer": "B"
+    },
+    {
+        "id": 237,
+        "category": "CSE",
+        "question": "Which of the following is not a type of virtualization?",
+        "option_a": "Server virtualization",
+        "option_b": "Desktop virtualization",
+        "option_c": "Network virtualization",
+        "option_d": "None of the above",
+        "answer": "D"
+    },
+    {
+        "id": 238,
+        "category": "CSE",
+        "question": "What is the primary purpose of a load balancer in a network?",
+        "option_a": "To provide a firewall",
+        "option_b": "To connect multiple networks",
+        "option_c": "To distribute network traffic evenly across multiple servers",
+        "option_d": "To convert data from analog to digital",
+        "answer": "C"
+    },
+    {
+        "id": 239,
+        "category": "CSE",
+        "question": "What is the primary purpose of a cache in computing?",
+        "option_a": "To provide a backup for the data",
+        "option_b": "To store data permanently",
+        "option_c": "To provide security for the data",
+        "option_d": "To provide temporary storage for frequently used data",
+        "answer": "D"
+    },
+    {
+        "id": 240,
+        "category": "CSE",
+        "question": "Which of the following is not a type of search algorithm?",
+        "option_a": "Binary search",
+        "option_b": "Linear search",
+        "option_c": "Depth-first search",
+        "option_d": "None of the above",
+        "answer": "D"
+    },
+    {
+        "id": 241,
+        "category": "CSE",
+        "question": "Which of the following is not a principle of object-oriented programming?",
+        "option_a": "Encapsulation",
+        "option_b": "Inheritance",
+        "option_c": "Polymorphism",
+        "option_d": "Multiprocessing",
+        "answer": "D"
+    },
+    {
+        "id": 242,
+        "category": "CSE",
+        "question": "Which of the following is not a type of network?",
+        "option_a": "LAN",
+        "option_b": "MAN",
+        "option_c": "WAN",
+        "option_d": "CAN",
+        "answer": "D"
+    },
+    {
+        "id": 243,
+        "category": "CSE",
+        "question": "In the context of databases what does ACID stand for?",
+        "option_a": "Atomicity Consistency Isolation Durability",
+        "option_b": "Access Consistency Integrity Database",
+        "option_c": "Atomicity Completeness Isolation Durability",
+        "option_d": "Availability Concurrency Integrity Durability",
+        "answer": "A"
+    },
+    {
+        "id": 244,
+        "category": "CSE",
+        "question": "What is the main difference between a stack and a queue?",
+        "option_a": "Stacks are static & queues are dynamic data structures",
+        "option_b": "Stacks follow LIFO order & queues follow FIFO order",
+        "option_c": "Stacks can only store integers & queues can store any data type",
+        "option_d": "There is no difference & they are the same thing",
+        "answer": "B"
+    },
+    {
+        "id": 245,
+        "category": "CSE",
+        "question": "What is the purpose of the virtual keyword in C++?",
+        "option_a": "To create a pure virtual function",
+        "option_b": "To overload operators",
+        "option_c": "To declare a friend function",
+        "option_d": "To create a virtual base class",
+        "answer": "D"
+    },
+    {
+        "id": 246,
+        "category": "CSE",
+        "question": "What is the main purpose of a Trie data structure?",
+        "option_a": "Efficient information retrieval",
+        "option_b": "Efficient sorting of data",
+        "option_c": "Efficient searching of keys",
+        "option_d": "Efficient compression of data",
+        "answer": "C"
+    },
+    {
+        "id": 247,
+        "category": "CSE",
+        "question": "In the context of computer networks what does TCP stand for?",
+        "option_a": "Transmission Control Protocol",
+        "option_b": "Transfer Connected Protocol",
+        "option_c": "Transformative Connecting Protocol",
+        "option_d": "Transparent Connectivity Protocol",
+        "answer": "A"
+    },
+    {
+        "id": 248,
+        "category": "CSE",
+        "question": "What is the purpose of the finally block in Java exception handling?",
+        "option_a": "To define an alternative execution path",
+        "option_b": "To execute code regardless of whether an exception is thrown or not",
+        "option_c": "To handle a specific type of exception",
+        "option_d": "To explicitly throw an exception",
+        "answer": "B"
+    },
+    {
+        "id": 249,
+        "category": "CSE",
+        "question": "What is the key difference between public and private inheritance in C++?",
+        "option_a": "Public inheritance preserves base class member access but private does not",
+        "option_b": "Private inheritance is more memory efficient than public inheritance",
+        "option_c": "There is no difference they are the same thing",
+        "option_d": "Private inheritance allows accessing private members but public does not",
+        "answer": "A"
+    },
+    {
+        "id": 250,
+        "category": "CSE",
+        "question": "In the context of machine learning what is overfitting?",
+        "option_a": "When a model performs well on training data but poorly on new data",
+        "option_b": "When a model fails to capture underlying patterns in data",
+        "option_c": "When a model is too simple to learn from data effectively",
+        "option_d": "When a model has high bias and high variance",
+        "answer": "A"
+    },
+    {
+        "id": 251,
+        "category": "CSE",
+        "question": "What is the key difference between GPU and CPU?",
+        "option_a": "GPUs are better for parallel processing & CPUs are better for serial processing",
+        "option_b": "GPUs consume more power than CPUs",
+        "option_c": "GPUs are faster than CPUs for all types of computations",
+        "option_d": "There is no difference they are interchangeable",
+        "answer": "A"
+    },
+    {
+        "id": 252,
+        "category": "CSE",
+        "question": "What is the purpose of the volatile keyword in C/C++?",
+        "option_a": "To declare a global variable",
+        "option_b": "To prevent compiler optimizations that reorder operations",
+        "option_c": "To create a thread-safe variable",
+        "option_d": "To indicate that a value may change unexpectedly",
+        "answer": "D"
+    },
+    {
+        "id": 253,
+        "category": "CSE",
+        "question": "In the context of operating systems what is thrashing?",
+        "option_a": "Excessive swapping of processes between main memory and disk",
+        "option_b": "A type of memory leak caused by frequent allocation and deallocation",
+        "option_c": "A condition where the CPU is constantly busy but no processes are making progress",
+        "option_d": "A security vulnerability that allows unauthorized access to system resources",
+        "answer": "A"
+    },
+    {
+        "id": 254,
+        "category": "CSE",
+        "question": "What is the purpose of the static keyword in Java?",
+        "option_a": "To declare a static method",
+        "option_b": "To create a singleton class",
+        "option_c": "To allocate memory for a variable at compile-time",
+        "option_d": "All of the above",
+        "answer": "D"
+    },
+    {
+        "id": 255,
+        "category": "CSE",
+        "question": "In the context of databases what is denormalization?",
+        "option_a": "The process of optimizing the database for better read performance",
+        "option_b": "The process of removing redundant data from a database",
+        "option_c": "The process of converting data into a more readable format",
+        "option_d": "The process of creating additional indexes for faster queries",
+        "answer": "A"
+    },
+    {
+        "id": 256,
+        "category": "CSE",
+        "question": "What is the purpose of the final keyword in Java?",
+        "option_a": "To declare a constant variable",
+        "option_b": "To prevent a class from being subclassed",
+        "option_c": "To create an immutable object",
+        "option_d": "All of the above",
+        "answer": "D"
+    },
+    {
+        "id": 257,
+        "category": "CSE",
+        "question": "In the context of computer networks what is a NAT (Network Address Translation)?",
+        "option_a": "A protocol for translating private IP addresses to public IP addresses",
+        "option_b": "A type of firewall used to protect networks from unauthorized access",
+        "option_c": "A technique for load balancing network traffic across multiple servers",
+        "option_d": "A method for compressing network data to reduce bandwidth usage",
+        "answer": "A"
+    },
+    {
+        "id": 258,
+        "category": "CSE",
+        "question": "What is the purpose of the friend keyword in C++?",
+        "option_a": "To declare a function or class as a friend of another class",
+        "option_b": "To create a friendship between two objects",
+        "option_c": "To overload operators for a class",
+        "option_d": "To optimize a function for better performance",
+        "answer": "A"
+    },
+    {
+        "id": 259,
+        "category": "CSE",
+        "question": "In the context of machine learning what is a convolutional neural network (CNN)?",
+        "option_a": "A type of neural network used for image classification and recognition",
+        "option_b": "A neural network designed for time series forecasting",
+        "option_c": "A type of unsupervised learning algorithm for clustering",
+        "option_d": "A type of supervised learning",
+        "answer": "A"
+    },
+    {
+        "id": 260,
+        "category": "CSE",
+        "question": "What is the key difference between depth-first search (DFS) and breadth-first search (BFS)?",
+        "option_a": "DFS explores as far as possible along each branch before backtracking & BFS explores all nodes at the current depth before moving to the next level",
+        "option_b": "DFS is more memory-efficient than BFS",
+        "option_c": "BFS is guaranteed to find the shortest path & DFS is not",
+        "option_d": "All of the above",
+        "answer": "D"
+    },
+    {
+        "id": 261,
+        "category": "CSE",
+        "question": "In the context of computer architecture what is pipelining?",
+        "option_a": "A technique to improve CPU performance by breaking down instruction execution into a series of smaller steps",
+        "option_b": "A way to connect multiple CPUs to increase processing power",
+        "option_c": "A method for compressing data to improve storage efficiency",
+        "option_d": "A parallel processing technique used in GPUs",
+        "answer": "A"
+    },
+    {
+        "id": 262,
+        "category": "CSE",
+        "question": "In the context of databases what is an index?",
+        "option_a": "A data structure used to optimize search and retrieval operations",
+        "option_b": "A type of database query used for data manipulation",
+        "option_c": "A technique for securing sensitive data in a database",
+        "option_d": "A method for compressing data in a database to save storage space",
+        "answer": "A"
+    },
+    {
+        "id": 263,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -16, -25, -34, -43, ... What number should come next?",
+        "option_a": "-41",
+        "option_b": "-52",
+        "option_c": "-50",
+        "option_d": "-54",
+        "answer": "B"
+    },
+    {
+        "id": 264,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 97, 89, 81, 73, ... What number should come next?",
+        "option_a": "61",
+        "option_b": "65",
+        "option_c": "67",
+        "option_d": "80",
+        "answer": "B"
+    },
+    {
+        "id": 265,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 2, 4, 8, 16, ... What number should come next?",
+        "option_a": "38",
+        "option_b": "32",
+        "option_c": "28",
+        "option_d": "48",
+        "answer": "B"
+    },
+    {
+        "id": 266,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 0, 1, 2, 3, ... What number should come next?",
+        "option_a": "4",
+        "option_b": "19",
+        "option_c": "8",
+        "option_d": "-4",
+        "answer": "A"
+    },
+    {
+        "id": 267,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -1, -3, -5, -7, ... What number should come next?",
+        "option_a": "-9",
+        "option_b": "-17",
+        "option_c": "-3",
+        "option_d": "6",
+        "answer": "A"
+    },
+    {
+        "id": 268,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 7, 8, 0, 1, ... What number should come next?",
+        "option_a": "17",
+        "option_b": "-6",
+        "option_c": "9",
+        "option_d": "2",
+        "answer": "D"
+    },
+    {
+        "id": 269,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 6, 7, 0, 1, ... What number should come next?",
+        "option_a": "6",
+        "option_b": "16",
+        "option_c": "2",
+        "option_d": "-8",
+        "answer": "C"
+    },
+    {
+        "id": 270,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 200, 100, 50, 25, ... What number should come next?",
+        "option_a": "30",
+        "option_b": "7",
+        "option_c": "12.5",
+        "option_d": "20",
+        "answer": "C"
+    },
+    {
+        "id": 271,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 1.2, 2.6, 4.0, 5.4, ... What number should come next?",
+        "option_a": "6.8",
+        "option_b": "16.8",
+        "option_c": "26.8",
+        "option_d": "-1.2",
+        "answer": "A"
+    },
+    {
+        "id": 272,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 3, 9, 27, 81, ... What number should come next?",
+        "option_a": "243",
+        "option_b": "233",
+        "option_c": "259",
+        "option_d": "251",
+        "answer": "A"
+    },
+    {
+        "id": 273,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 3.7, 4.5, 5.3, 6.1, ... What number should come next?",
+        "option_a": "6.9",
+        "option_b": "20.9",
+        "option_c": "1.9",
+        "option_d": "13.9",
+        "answer": "A"
+    },
+    {
+        "id": 274,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -16, -22, -28, -34, ... What number should come next?",
+        "option_a": "-50",
+        "option_b": "-30",
+        "option_c": "-35",
+        "option_d": "-40",
+        "answer": "D"
+    },
+    {
+        "id": 275,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 81, 76, 71, 66, ... What number should come next?",
+        "option_a": "53",
+        "option_b": "78",
+        "option_c": "70",
+        "option_d": "61",
+        "answer": "D"
+    },
+    {
+        "id": 276,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -20, -21, -22, -23, ... What number should come next?",
+        "option_a": "-16",
+        "option_b": "-24",
+        "option_c": "-10",
+        "option_d": "-34",
+        "answer": "B"
+    },
+    {
+        "id": 277,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 1, 4, 16, 64, ... What number should come next?",
+        "option_a": "256",
+        "option_b": "264",
+        "option_c": "272",
+        "option_d": "253",
+        "answer": "A"
+    },
+    {
+        "id": 278,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 141, 35, 8, 2, ... What number should come next?",
+        "option_a": "15",
+        "option_b": "8",
+        "option_c": "0",
+        "option_d": "-1",
+        "answer": "C"
+    },
+    {
+        "id": 279,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -18, -28, -38, -48, ... What number should come next?",
+        "option_a": "-48",
+        "option_b": "-68",
+        "option_c": "-58",
+        "option_d": "-48",
+        "answer": "C"
+    },
+    {
+        "id": 280,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 59, 47, 35, 23, ... What number should come next?",
+        "option_a": "11",
+        "option_b": "8",
+        "option_c": "21",
+        "option_d": "31",
+        "answer": "A"
+    },
+    {
+        "id": 281,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 2, 3, 4, 5, ... What number should come next?",
+        "option_a": "21",
+        "option_b": "6",
+        "option_c": "1",
+        "option_d": "14",
+        "answer": "B"
+    },
+    {
+        "id": 282,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 4, 16, 64, 256, ... What number should come next?",
+        "option_a": "1016",
+        "option_b": "1036",
+        "option_c": "1024",
+        "option_d": "1026",
+        "answer": "C"
+    },
+    {
+        "id": 283,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 56, 44, 32, 20, ... What number should come next?",
+        "option_a": "8",
+        "option_b": "20",
+        "option_c": "12",
+        "option_d": "-2",
+        "answer": "A"
+    },
+    {
+        "id": 284,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 67, 57, 47, 37, ... What number should come next?",
+        "option_a": "27",
+        "option_b": "18",
+        "option_c": "40",
+        "option_d": "31",
+        "answer": "A"
+    },
+    {
+        "id": 285,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -3, -5, -7, -9, ... What number should come next?",
+        "option_a": "-21",
+        "option_b": "3",
+        "option_c": "-11",
+        "option_d": "-9",
+        "answer": "C"
+    },
+    {
+        "id": 286,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 2.3, 3.7, 5.1, 6.5, ... What number should come next?",
+        "option_a": "0.9",
+        "option_b": "7.9",
+        "option_c": "27.9",
+        "option_d": "15.9",
+        "answer": "B"
+    },
+    {
+        "id": 287,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 163, 54, 18, 6, ... What number should come next?",
+        "option_a": "2",
+        "option_b": "-1",
+        "option_c": "7",
+        "option_d": "22",
+        "answer": "A"
+    },
+    {
+        "id": 288,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -6, -10, -14, -18, ... What number should come next?",
+        "option_a": "-9",
+        "option_b": "-22",
+        "option_c": "-19",
+        "option_d": "-27",
+        "answer": "B"
+    },
+    {
+        "id": 289,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 9, 27, 81, 243, ... What number should come next?",
+        "option_a": "732",
+        "option_b": "729",
+        "option_c": "728",
+        "option_d": "739",
+        "answer": "B"
+    },
+    {
+        "id": 290,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 2, 8, 32, 128, ... What number should come next?",
+        "option_a": "526",
+        "option_b": "512",
+        "option_c": "504",
+        "option_d": "521",
+        "answer": "B"
+    },
+    {
+        "id": 291,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 10, 15, 20, 25, ... What number should come next?",
+        "option_a": "30",
+        "option_b": "27",
+        "option_c": "44",
+        "option_d": "34",
+        "answer": "A"
+    },
+    {
+        "id": 292,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 5, 15, 45, 135, ... What number should come next?",
+        "option_a": "424",
+        "option_b": "414",
+        "option_c": "405",
+        "option_d": "399",
+        "answer": "C"
+    },
+    {
+        "id": 293,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -15, -23, -31, -39, ... What number should come next?",
+        "option_a": "-47",
+        "option_b": "-39",
+        "option_c": "-57",
+        "option_d": "-27",
+        "answer": "A"
+    },
+    {
+        "id": 294,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 16, 22, 28, 34, ... What number should come next?",
+        "option_a": "31",
+        "option_b": "40",
+        "option_c": "48",
+        "option_d": "54",
+        "answer": "B"
+    },
+    {
+        "id": 295,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 74, 66, 58, 50, ... What number should come next?",
+        "option_a": "57",
+        "option_b": "49",
+        "option_c": "42",
+        "option_d": "34",
+        "answer": "C"
+    },
+    {
+        "id": 296,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 18, 20, 22, 24, ... What number should come next?",
+        "option_a": "26",
+        "option_b": "40",
+        "option_c": "23",
+        "option_d": "35",
+        "answer": "A"
+    },
+    {
+        "id": 297,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -4, -10, -16, -22, ... What number should come next?",
+        "option_a": "-13",
+        "option_b": "-28",
+        "option_c": "-32",
+        "option_d": "-20",
+        "answer": "B"
+    },
+    {
+        "id": 298,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 1, 2, 3, 4, ... What number should come next?",
+        "option_a": "0",
+        "option_b": "14",
+        "option_c": "8",
+        "option_d": "-3",
+        "answer": "A"
+    },
+    {
+        "id": 299,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -10, -16, -22, -28, ... What number should come next?",
+        "option_a": "-38",
+        "option_b": "-34",
+        "option_c": "-15",
+        "option_d": "-25",
+        "answer": "B"
+    },
+    {
+        "id": 300,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 4, 10, 16, 22, ... What number should come next?",
+        "option_a": "45",
+        "option_b": "27",
+        "option_c": "32",
+        "option_d": "28",
+        "answer": "D"
+    },
+    {
+        "id": 301,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 3.7, 5.1, 6.5, 7.9, ... What number should come next?",
+        "option_a": "21.3",
+        "option_b": "9.3",
+        "option_c": "10.3",
+        "option_d": "2.3",
+        "answer": "B"
+    },
+    {
+        "id": 302,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 1, 4, 9, 16, ... What number should come next?",
+        "option_a": "17",
+        "option_b": "28",
+        "option_c": "42",
+        "option_d": "25",
+        "answer": "D"
+    },
+    {
+        "id": 303,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 8, 16, 32, 64, ... What number should come next?",
+        "option_a": "137",
+        "option_b": "123",
+        "option_c": "138",
+        "option_d": "128",
+        "answer": "D"
+    },
+    {
+        "id": 304,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -11, -19, -27, -35, ... What number should come next?",
+        "option_a": "-23",
+        "option_b": "-35",
+        "option_c": "-43",
+        "option_d": "-53",
+        "answer": "C"
+    },
+    {
+        "id": 305,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 86, 80, 74, 68, ... What number should come next?",
+        "option_a": "62",
+        "option_b": "72",
+        "option_c": "80",
+        "option_d": "54",
+        "answer": "A"
+    },
+    {
+        "id": 306,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 16, 64, 256, 1024, ... What number should come next?",
+        "option_a": "4096",
+        "option_b": "4087",
+        "option_c": "4105",
+        "option_d": "4111",
+        "answer": "A"
+    },
+    {
+        "id": 307,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 14, 22, 30, 38, ... What number should come next?",
+        "option_a": "45",
+        "option_b": "63",
+        "option_c": "46",
+        "option_d": "54",
+        "answer": "C"
+    },
+    {
+        "id": 308,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 165, 41, 10, 2, ... What number should come next?",
+        "option_a": "-6",
+        "option_b": "0",
+        "option_c": "8",
+        "option_d": "16",
+        "answer": "B"
+    },
+    {
+        "id": 309,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -10, -11, -12, -13, ... What number should come next?",
+        "option_a": "-4",
+        "option_b": "-14",
+        "option_c": "-23",
+        "option_d": "-1",
+        "answer": "B"
+    },
+    {
+        "id": 310,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 0.5, 1.9, 3.3, 4.7, ... What number should come next?",
+        "option_a": "22.1",
+        "option_b": "15.1",
+        "option_c": "-0.9",
+        "option_d": "6.1",
+        "answer": "D"
+    },
+    {
+        "id": 311,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 69, 64, 59, 54, ... What number should come next?",
+        "option_a": "50",
+        "option_b": "41",
+        "option_c": "66",
+        "option_d": "49",
+        "answer": "D"
+    },
+    {
+        "id": 312,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 4, 9, 16, 25, ... What number should come next?",
+        "option_a": "36",
+        "option_b": "35",
+        "option_c": "50",
+        "option_d": "40",
+        "answer": "A"
+    },
+    {
+        "id": 313,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -6, -14, -22, -30, ... What number should come next?",
+        "option_a": "-38",
+        "option_b": "-31",
+        "option_c": "-44",
+        "option_d": "-19",
+        "answer": "A"
+    },
+    {
+        "id": 314,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 9, 14, 19, 24, ... What number should come next?",
+        "option_a": "36",
+        "option_b": "43",
+        "option_c": "22",
+        "option_d": "29",
+        "answer": "D"
+    },
+    {
+        "id": 315,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 1.5, 2.9, 4.3, 5.7, ... What number should come next?",
+        "option_a": "24.1",
+        "option_b": "6.1",
+        "option_c": "11.1",
+        "option_d": "7.1",
+        "answer": "D"
+    },
+    {
+        "id": 316,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -13, -17, -21, -25, ... What number should come next?",
+        "option_a": "-12",
+        "option_b": "-34",
+        "option_c": "-22",
+        "option_d": "-29",
+        "answer": "D"
+    },
+    {
+        "id": 317,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 2.5, 4.1, 5.7, 7.3, ... What number should come next?",
+        "option_a": "22.9",
+        "option_b": "2.9",
+        "option_c": "8.9",
+        "option_d": "10.9",
+        "answer": "C"
+    },
+    {
+        "id": 318,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 162, 54, 18, 6, ... What number should come next?",
+        "option_a": "13",
+        "option_b": "9",
+        "option_c": "-8",
+        "option_d": "2",
+        "answer": "D"
+    },
+    {
+        "id": 319,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 56, 51, 46, 41, ... What number should come next?",
+        "option_a": "36",
+        "option_b": "54",
+        "option_c": "44",
+        "option_d": "29",
+        "answer": "A"
+    },
+    {
+        "id": 320,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 60, 51, 42, 33, ... What number should come next?",
+        "option_a": "24",
+        "option_b": "14",
+        "option_c": "41",
+        "option_d": "32",
+        "answer": "A"
+    },
+    {
+        "id": 321,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -1, -6, -11, -16, ... What number should come next?",
+        "option_a": "-1",
+        "option_b": "-24",
+        "option_c": "-21",
+        "option_d": "-14",
+        "answer": "C"
+    },
+    {
+        "id": 322,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -6, -9, -12, -15, ... What number should come next?",
+        "option_a": "-25",
+        "option_b": "-14",
+        "option_c": "-18",
+        "option_d": "-7",
+        "answer": "C"
+    },
+    {
+        "id": 323,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 64, 256, 1024, 4096, ... What number should come next?",
+        "option_a": "16394",
+        "option_b": "16384",
+        "option_c": "16380",
+        "option_d": "16392",
+        "answer": "B"
+    },
+    {
+        "id": 324,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 1.0, 1.8, 2.6, 3.4, ... What number should come next?",
+        "option_a": "15.2",
+        "option_b": "7.2",
+        "option_c": "4.2",
+        "option_d": "-3.8",
+        "answer": "C"
+    },
+    {
+        "id": 325,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 161, 32, 6, 1, ... What number should come next?",
+        "option_a": "12",
+        "option_b": "0",
+        "option_c": "-7",
+        "option_d": "2",
+        "answer": "B"
+    },
+    {
+        "id": 326,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 9, 16, 25, 36, ... What number should come next?",
+        "option_a": "48",
+        "option_b": "49",
+        "option_c": "67",
+        "option_d": "51",
+        "answer": "B"
+    },
+    {
+        "id": 327,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 3.0, 3.6, 4.2, 4.8, ... What number should come next?",
+        "option_a": "5.4",
+        "option_b": "-1.59",
+        "option_c": "8.4",
+        "option_d": "19.4",
+        "answer": "A"
+    },
+    {
+        "id": 328,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 1, 5, 25, 125, ... What number should come next?",
+        "option_a": "634",
+        "option_b": "637",
+        "option_c": "625",
+        "option_d": "617",
+        "answer": "C"
+    },
+    {
+        "id": 329,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 160, 32, 6, 1, ... What number should come next?",
+        "option_a": "0",
+        "option_b": "-3",
+        "option_c": "2",
+        "option_d": "17",
+        "answer": "A"
+    },
+    {
+        "id": 330,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 3, 4, 5, 6, ... What number should come next?",
+        "option_a": "10",
+        "option_b": "21",
+        "option_c": "7",
+        "option_d": "5",
+        "answer": "C"
+    },
+    {
+        "id": 331,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 3.8, 5.2, 6.6, 8.0, ... What number should come next?",
+        "option_a": "21.4",
+        "option_b": "16.4",
+        "option_c": "5.4",
+        "option_d": "9.4",
+        "answer": "D"
+    },
+    {
+        "id": 332,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -20, -24, -28, -32, ... What number should come next?",
+        "option_a": "-26",
+        "option_b": "-24",
+        "option_c": "-40",
+        "option_d": "-36",
+        "answer": "D"
+    },
+    {
+        "id": 333,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 0.6, 1.0, 1.4, 1.8, ... What number should come next?",
+        "option_a": "15.2",
+        "option_b": "-6.8",
+        "option_c": "4.2",
+        "option_d": "2.2",
+        "answer": "D"
+    },
+    {
+        "id": 334,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 135, 67, 33, 16, ... What number should come next?",
+        "option_a": "3",
+        "option_b": "8",
+        "option_c": "18",
+        "option_d": "28",
+        "answer": "B"
+    },
+    {
+        "id": 335,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 162, 81, 40, 20, ... What number should come next?",
+        "option_a": "24",
+        "option_b": "13",
+        "option_c": "10",
+        "option_d": "1",
+        "answer": "C"
+    },
+    {
+        "id": 336,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 69, 56, 43, 30, ... What number should come next?",
+        "option_a": "15",
+        "option_b": "37",
+        "option_c": "17",
+        "option_d": "20",
+        "answer": "C"
+    },
+    {
+        "id": 337,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 73, 58, 43, 28, ... What number should come next?",
+        "option_a": "9",
+        "option_b": "21",
+        "option_c": "27",
+        "option_d": "13",
+        "answer": "D"
+    },
+    {
+        "id": 338,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 4.5, 6.1, 7.7, 9.3, ... What number should come next?",
+        "option_a": "10.9",
+        "option_b": "12.9",
+        "option_c": "25.9",
+        "option_d": "9.9",
+        "answer": "A"
+    },
+    {
+        "id": 339,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 9, 11, 13, 15, ... What number should come next?",
+        "option_a": "17",
+        "option_b": "16",
+        "option_c": "36",
+        "option_d": "19",
+        "answer": "A"
+    },
+    {
+        "id": 340,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 14, 23, 32, 41, ... What number should come next?",
+        "option_a": "60",
+        "option_b": "50",
+        "option_c": "40",
+        "option_d": "55",
+        "answer": "B"
+    },
+    {
+        "id": 341,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 104, 52, 26, 13, ... What number should come next?",
+        "option_a": "15",
+        "option_b": "4",
+        "option_c": "6",
+        "option_d": "22",
+        "answer": "C"
+    },
+    {
+        "id": 342,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 0.6, 2.1, 3.6, 5.1, ... What number should come next?",
+        "option_a": "18.6",
+        "option_b": "11.6",
+        "option_c": "1.59",
+        "option_d": "6.6",
+        "answer": "D"
+    },
+    {
+        "id": 343,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 5, 0, 1, 2, ... What number should come next?",
+        "option_a": "-1",
+        "option_b": "14",
+        "option_c": "3",
+        "option_d": "10",
+        "answer": "C"
+    },
+    {
+        "id": 344,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 7, 16, 25, 34, ... What number should come next?",
+        "option_a": "53",
+        "option_b": "49",
+        "option_c": "40",
+        "option_d": "43",
+        "answer": "D"
+    },
+    {
+        "id": 345,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 190, 47, 11, 2, ... What number should come next?",
+        "option_a": "15",
+        "option_b": "-4",
+        "option_c": "3",
+        "option_d": "0",
+        "answer": "D"
+    },
+    {
+        "id": 346,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 165, 82, 41, 20, ... What number should come next?",
+        "option_a": "27",
+        "option_b": "10",
+        "option_c": "14",
+        "option_d": "6",
+        "answer": "B"
+    },
+    {
+        "id": 347,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 6, 7, 8, 0, ... What number should come next?",
+        "option_a": "13",
+        "option_b": "-3",
+        "option_c": "1",
+        "option_d": "4",
+        "answer": "C"
+    },
+    {
+        "id": 348,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 123, 61, 30, 15, ... What number should come next?",
+        "option_a": "4",
+        "option_b": "25",
+        "option_c": "9",
+        "option_d": "7",
+        "answer": "D"
+    },
+    {
+        "id": 349,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 2, 4, 6, 8, ... What number should come next?",
+        "option_a": "15",
+        "option_b": "10",
+        "option_c": "24",
+        "option_d": "6",
+        "answer": "B"
+    },
+    {
+        "id": 350,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 75, 63, 51, 39, ... What number should come next?",
+        "option_a": "45",
+        "option_b": "27",
+        "option_c": "21",
+        "option_d": "30",
+        "answer": "B"
+    },
+    {
+        "id": 351,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 1.1, 1.6, 2.1, 2.6, ... What number should come next?",
+        "option_a": "3.1",
+        "option_b": "-6.9",
+        "option_c": "10.1",
+        "option_d": "22.1",
+        "answer": "A"
+    },
+    {
+        "id": 352,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 5, 8, 11, 14, ... What number should come next?",
+        "option_a": "8",
+        "option_b": "17",
+        "option_c": "22",
+        "option_d": "36",
+        "answer": "B"
+    },
+    {
+        "id": 353,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 1, 7, 13, 19, ... What number should come next?",
+        "option_a": "30",
+        "option_b": "15",
+        "option_c": "43",
+        "option_d": "25",
+        "answer": "D"
+    },
+    {
+        "id": 354,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -3, -6, -9, -12, ... What number should come next?",
+        "option_a": "-5",
+        "option_b": "-15",
+        "option_c": "-5",
+        "option_d": "-22",
+        "answer": "B"
+    },
+    {
+        "id": 355,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 1, 3, 9, 27, ... What number should come next?",
+        "option_a": "84",
+        "option_b": "81",
+        "option_c": "77",
+        "option_d": "97",
+        "answer": "B"
+    },
+    {
+        "id": 356,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 91, 78, 65, 52, ... What number should come next?",
+        "option_a": "34",
+        "option_b": "48",
+        "option_c": "39",
+        "option_d": "51",
+        "answer": "C"
+    },
+    {
+        "id": 357,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 4.0, 4.7, 5.4, 6.1, ... What number should come next?",
+        "option_a": "-0.2",
+        "option_b": "9.8",
+        "option_c": "6.8",
+        "option_d": "17.8",
+        "answer": "C"
+    },
+    {
+        "id": 358,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 4.7, 5.9, 7.1, 8.3, ... What number should come next?",
+        "option_a": "16.5",
+        "option_b": "4.5",
+        "option_c": "19.5",
+        "option_d": "9.5",
+        "answer": "D"
+    },
+    {
+        "id": 359,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 5, 20, 80, 320, ... What number should come next?",
+        "option_a": "1273",
+        "option_b": "1295",
+        "option_c": "1280",
+        "option_d": "1290",
+        "answer": "C"
+    },
+    {
+        "id": 360,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -1, -5, -9, -13, ... What number should come next?",
+        "option_a": "1",
+        "option_b": "-7",
+        "option_c": "-17",
+        "option_d": "-21",
+        "answer": "C"
+    },
+    {
+        "id": 361,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 4, 5, 6, 7, ... What number should come next?",
+        "option_a": "17",
+        "option_b": "0",
+        "option_c": "4",
+        "option_d": "-7",
+        "answer": "B"
+    },
+    {
+        "id": 362,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 6, 0, 1, 2, ... What number should come next?",
+        "option_a": "0",
+        "option_b": "22",
+        "option_c": "11",
+        "option_d": "3",
+        "answer": "D"
+    },
+    {
+        "id": 363,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -6, -12, -18, -24, ... What number should come next?",
+        "option_a": "-37",
+        "option_b": "-11",
+        "option_c": "-30",
+        "option_d": "-28",
+        "answer": "C"
+    },
+    {
+        "id": 364,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 4.3, 4.7, 5.1, 5.5, ... What number should come next?",
+        "option_a": "5.9",
+        "option_b": "14.9",
+        "option_c": "-3.1",
+        "option_d": "22.9",
+        "answer": "A"
+    },
+    {
+        "id": 365,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -3, -10, -17, -24, ... What number should come next?",
+        "option_a": "-17",
+        "option_b": "-29",
+        "option_c": "-31",
+        "option_d": "-38",
+        "answer": "C"
+    },
+    {
+        "id": 366,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 96, 81, 66, 51, ... What number should come next?",
+        "option_a": "51",
+        "option_b": "33",
+        "option_c": "45",
+        "option_d": "36",
+        "answer": "D"
+    },
+    {
+        "id": 367,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 15, 23, 31, 39, ... What number should come next?",
+        "option_a": "47",
+        "option_b": "57",
+        "option_c": "65",
+        "option_d": "39",
+        "answer": "A"
+    },
+    {
+        "id": 368,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -18, -24, -30, -36, ... What number should come next?",
+        "option_a": "-42",
+        "option_b": "-32",
+        "option_c": "-38",
+        "option_d": "-52",
+        "answer": "A"
+    },
+    {
+        "id": 369,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 0.5, 1.8, 3.1, 4.4, ... What number should come next?",
+        "option_a": "3.7",
+        "option_b": "5.7",
+        "option_c": "8.7",
+        "option_d": "15.7",
+        "answer": "B"
+    },
+    {
+        "id": 370,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 185, 46, 11, 2, ... What number should come next?",
+        "option_a": "7",
+        "option_b": "19",
+        "option_c": "-8",
+        "option_d": "0",
+        "answer": "D"
+    },
+    {
+        "id": 371,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 95, 88, 81, 74, ... What number should come next?",
+        "option_a": "67",
+        "option_b": "58",
+        "option_c": "85",
+        "option_d": "77",
+        "answer": "A"
+    },
+    {
+        "id": 372,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 81, 72, 63, 54, ... What number should come next?",
+        "option_a": "45",
+        "option_b": "57",
+        "option_c": "38",
+        "option_d": "54",
+        "answer": "A"
+    },
+    {
+        "id": 373,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 112, 22, 4, 0, ... What number should come next?",
+        "option_a": "-7",
+        "option_b": "6",
+        "option_c": "15",
+        "option_d": "0",
+        "answer": "D"
+    },
+    {
+        "id": 374,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 115, 38, 12, 4, ... What number should come next?",
+        "option_a": "18",
+        "option_b": "-7",
+        "option_c": "1",
+        "option_d": "9",
+        "answer": "C"
+    },
+    {
+        "id": 375,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -15, -21, -27, -33, ... What number should come next?",
+        "option_a": "-45",
+        "option_b": "-21",
+        "option_c": "-38",
+        "option_d": "-39",
+        "answer": "D"
+    },
+    {
+        "id": 376,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 15, 18, 21, 24, ... What number should come next?",
+        "option_a": "22",
+        "option_b": "34",
+        "option_c": "27",
+        "option_d": "47",
+        "answer": "C"
+    },
+    {
+        "id": 377,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 158, 39, 9, 2, ... What number should come next?",
+        "option_a": "13",
+        "option_b": "0",
+        "option_c": "-1",
+        "option_d": "2",
+        "answer": "B"
+    },
+    {
+        "id": 378,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 67, 53, 39, 25, ... What number should come next?",
+        "option_a": "10",
+        "option_b": "24",
+        "option_c": "11",
+        "option_d": "14",
+        "answer": "C"
+    },
+    {
+        "id": 379,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -3, -7, -11, -15, ... What number should come next?",
+        "option_a": "0",
+        "option_b": "-20",
+        "option_c": "-19",
+        "option_d": "-18",
+        "answer": "C"
+    },
+    {
+        "id": 380,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 96, 89, 82, 75, ... What number should come next?",
+        "option_a": "88",
+        "option_b": "68",
+        "option_c": "71",
+        "option_d": "64",
+        "answer": "B"
+    },
+    {
+        "id": 381,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 3, 10, 17, 24, ... What number should come next?",
+        "option_a": "29",
+        "option_b": "31",
+        "option_c": "42",
+        "option_d": "33",
+        "answer": "B"
+    },
+    {
+        "id": 382,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 8, 0, 1, 2, ... What number should come next?",
+        "option_a": "3",
+        "option_b": "2",
+        "option_c": "9",
+        "option_d": "22",
+        "answer": "A"
+    },
+    {
+        "id": 383,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 152, 38, 9, 2, ... What number should come next?",
+        "option_a": "0",
+        "option_b": "1",
+        "option_c": "-1",
+        "option_d": "13",
+        "answer": "A"
+    },
+    {
+        "id": 384,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 13, 21, 29, 37, ... What number should come next?",
+        "option_a": "44",
+        "option_b": "45",
+        "option_c": "58",
+        "option_d": "49",
+        "answer": "B"
+    },
+    {
+        "id": 385,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 10, 16, 22, 28, ... What number should come next?",
+        "option_a": "33",
+        "option_b": "34",
+        "option_c": "35",
+        "option_d": "48",
+        "answer": "B"
+    },
+    {
+        "id": 386,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 3, 15, 75, 375, ... What number should come next?",
+        "option_a": "1875",
+        "option_b": "1888",
+        "option_c": "1866",
+        "option_d": "1878",
+        "answer": "A"
+    },
+    {
+        "id": 387,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -4, -14, -24, -34, ... What number should come next?",
+        "option_a": "-44",
+        "option_b": "-31",
+        "option_c": "-51",
+        "option_d": "-35",
+        "answer": "A"
+    },
+    {
+        "id": 388,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 27, 81, 243, 729, ... What number should come next?",
+        "option_a": "2187",
+        "option_b": "2205",
+        "option_c": "2196",
+        "option_d": "2178",
+        "answer": "A"
+    },
+    {
+        "id": 389,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 93, 78, 63, 48, ... What number should come next?",
+        "option_a": "53",
+        "option_b": "38",
+        "option_c": "33",
+        "option_d": "27",
+        "answer": "C"
+    },
+    {
+        "id": 390,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 1.1, 1.9, 2.7, 3.5, ... What number should come next?",
+        "option_a": "4.3",
+        "option_b": "-4.7",
+        "option_c": "6.3",
+        "option_d": "14.3",
+        "answer": "A"
+    },
+    {
+        "id": 391,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 156, 52, 17, 5, ... What number should come next?",
+        "option_a": "-1",
+        "option_b": "10",
+        "option_c": "1",
+        "option_d": "20",
+        "answer": "C"
+    },
+    {
+        "id": 392,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 4, 12, 36, 108, ... What number should come next?",
+        "option_a": "318",
+        "option_b": "339",
+        "option_c": "330",
+        "option_d": "324",
+        "answer": "D"
+    },
+    {
+        "id": 393,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 1, 2, 4, 8, ... What number should come next?",
+        "option_a": "9",
+        "option_b": "30",
+        "option_c": "16",
+        "option_d": "19",
+        "answer": "C"
+    },
+    {
+        "id": 394,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 88, 76, 64, 52, ... What number should come next?",
+        "option_a": "40",
+        "option_b": "33",
+        "option_c": "47",
+        "option_d": "60",
+        "answer": "A"
+    },
+    {
+        "id": 395,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 4, 9, 14, 19, ... What number should come next?",
+        "option_a": "26",
+        "option_b": "24",
+        "option_c": "40",
+        "option_d": "18",
+        "answer": "B"
+    },
+    {
+        "id": 396,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 71, 64, 57, 50, ... What number should come next?",
+        "option_a": "43",
+        "option_b": "33",
+        "option_c": "45",
+        "option_d": "53",
+        "answer": "A"
+    },
+    {
+        "id": 397,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 65, 53, 41, 29, ... What number should come next?",
+        "option_a": "33",
+        "option_b": "12",
+        "option_c": "17",
+        "option_d": "25",
+        "answer": "C"
+    },
+    {
+        "id": 398,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 72, 60, 48, 36, ... What number should come next?",
+        "option_a": "37",
+        "option_b": "16",
+        "option_c": "28",
+        "option_d": "24",
+        "answer": "D"
+    },
+    {
+        "id": 399,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 72, 67, 62, 57, ... What number should come next?",
+        "option_a": "42",
+        "option_b": "67",
+        "option_c": "58",
+        "option_d": "52",
+        "answer": "D"
+    },
+    {
+        "id": 400,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 94, 79, 64, 49, ... What number should come next?",
+        "option_a": "27",
+        "option_b": "42",
+        "option_c": "48",
+        "option_d": "34",
+        "answer": "D"
+    },
+    {
+        "id": 401,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 3, 6, 9, 12, ... What number should come next?",
+        "option_a": "10",
+        "option_b": "15",
+        "option_c": "33",
+        "option_d": "23",
+        "answer": "B"
+    },
+    {
+        "id": 402,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 4, 8, 16, 32, ... What number should come next?",
+        "option_a": "64",
+        "option_b": "71",
+        "option_c": "54",
+        "option_d": "74",
+        "answer": "A"
+    },
+    {
+        "id": 403,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 4.7, 6.1, 7.5, 8.9, ... What number should come next?",
+        "option_a": "10.3",
+        "option_b": "21.3",
+        "option_c": "14.3",
+        "option_d": "8.3",
+        "answer": "A"
+    },
+    {
+        "id": 404,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 119, 23, 4, 0, ... What number should come next?",
+        "option_a": "0",
+        "option_b": "-4",
+        "option_c": "16",
+        "option_d": "2",
+        "answer": "A"
+    },
+    {
+        "id": 405,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 2, 10, 50, 250, ... What number should come next?",
+        "option_a": "1242",
+        "option_b": "1260",
+        "option_c": "1250",
+        "option_d": "1266",
+        "answer": "C"
+    },
+    {
+        "id": 406,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 69, 61, 53, 45, ... What number should come next?",
+        "option_a": "28",
+        "option_b": "37",
+        "option_c": "48",
+        "option_d": "40",
+        "answer": "B"
+    },
+    {
+        "id": 407,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 188, 62, 20, 6, ... What number should come next?",
+        "option_a": "2",
+        "option_b": "4",
+        "option_c": "1",
+        "option_d": "21",
+        "answer": "A"
+    },
+    {
+        "id": 408,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 2, 6, 18, 54, ... What number should come next?",
+        "option_a": "176",
+        "option_b": "160",
+        "option_c": "169",
+        "option_d": "162",
+        "answer": "D"
+    },
+    {
+        "id": 409,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 4, 5, 6, 0, ... What number should come next?",
+        "option_a": "21",
+        "option_b": "4",
+        "option_c": "0",
+        "option_d": "1",
+        "answer": "D"
+    },
+    {
+        "id": 410,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 100, 20, 4, 0, ... What number should come next?",
+        "option_a": "0",
+        "option_b": "10",
+        "option_c": "-4",
+        "option_d": "11",
+        "answer": "A"
+    },
+    {
+        "id": 411,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 157, 52, 17, 5, ... What number should come next?",
+        "option_a": "18",
+        "option_b": "2",
+        "option_c": "-3",
+        "option_d": "1",
+        "answer": "D"
+    },
+    {
+        "id": 412,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 198, 99, 49, 24, ... What number should come next?",
+        "option_a": "12",
+        "option_b": "17",
+        "option_c": "26",
+        "option_d": "2",
+        "answer": "A"
+    },
+    {
+        "id": 413,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 79, 71, 63, 55, ... What number should come next?",
+        "option_a": "38",
+        "option_b": "65",
+        "option_c": "47",
+        "option_d": "55",
+        "answer": "C"
+    },
+    {
+        "id": 414,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -18, -23, -28, -33, ... What number should come next?",
+        "option_a": "-41",
+        "option_b": "-24",
+        "option_c": "-38",
+        "option_d": "-36",
+        "answer": "C"
+    },
+    {
+        "id": 415,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -7, -17, -27, -37, ... What number should come next?",
+        "option_a": "-50",
+        "option_b": "-29",
+        "option_c": "-47",
+        "option_d": "-39",
+        "answer": "C"
+    },
+    {
+        "id": 416,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -14, -23, -32, -41, ... What number should come next?",
+        "option_a": "-50",
+        "option_b": "-56",
+        "option_c": "-47",
+        "option_d": "-37",
+        "answer": "A"
+    },
+    {
+        "id": 417,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 5, 25, 125, 625, ... What number should come next?",
+        "option_a": "3127",
+        "option_b": "3121",
+        "option_c": "3141",
+        "option_d": "3125",
+        "answer": "D"
+    },
+    {
+        "id": 418,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 2.7, 3.6, 4.5, 5.4, ... What number should come next?",
+        "option_a": "7.3",
+        "option_b": "24.3",
+        "option_c": "6.3",
+        "option_d": "-1.7",
+        "answer": "C"
+    },
+    {
+        "id": 419,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 100, 93, 86, 79, ... What number should come next?",
+        "option_a": "81",
+        "option_b": "72",
+        "option_c": "62",
+        "option_d": "84",
+        "answer": "B"
+    },
+    {
+        "id": 420,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 4.4, 5.7, 7.0, 8.3, ... What number should come next?",
+        "option_a": "7.6",
+        "option_b": "15.6",
+        "option_c": "24.6",
+        "option_d": "9.6",
+        "answer": "D"
+    },
+    {
+        "id": 421,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 54, 42, 30, 18, ... What number should come next?",
+        "option_a": "25",
+        "option_b": "2",
+        "option_c": "6",
+        "option_d": "12",
+        "answer": "C"
+    },
+    {
+        "id": 422,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 16, 25, 34, 43, ... What number should come next?",
+        "option_a": "52",
+        "option_b": "43",
+        "option_c": "53",
+        "option_d": "64",
+        "answer": "A"
+    },
+    {
+        "id": 423,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -4, -8, -12, -16, ... What number should come next?",
+        "option_a": "-28",
+        "option_b": "-20",
+        "option_c": "-14",
+        "option_d": "-7",
+        "answer": "B"
+    },
+    {
+        "id": 424,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 86, 72, 58, 44, ... What number should come next?",
+        "option_a": "29",
+        "option_b": "35",
+        "option_c": "30",
+        "option_d": "43",
+        "answer": "C"
+    },
+    {
+        "id": 425,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 2.4, 3.3, 4.2, 5.1, ... What number should come next?",
+        "option_a": "12.0",
+        "option_b": "25.0",
+        "option_c": "-3.0",
+        "option_d": "6.0",
+        "answer": "D"
+    },
+    {
+        "id": 426,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 3, 12, 48, 192, ... What number should come next?",
+        "option_a": "781",
+        "option_b": "760",
+        "option_c": "768",
+        "option_d": "773",
+        "answer": "C"
+    },
+    {
+        "id": 427,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 19, 23, 27, 31, ... What number should come next?",
+        "option_a": "38",
+        "option_b": "50",
+        "option_c": "31",
+        "option_d": "35",
+        "answer": "D"
+    },
+    {
+        "id": 428,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 123, 41, 13, 4, ... What number should come next?",
+        "option_a": "21",
+        "option_b": "-9",
+        "option_c": "1",
+        "option_d": "3",
+        "answer": "C"
+    },
+    {
+        "id": 429,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 130, 43, 14, 4, ... What number should come next?",
+        "option_a": "-8",
+        "option_b": "2",
+        "option_c": "1",
+        "option_d": "17",
+        "answer": "C"
+    },
+    {
+        "id": 430,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 2.3, 3.9, 5.5, 7.1, ... What number should come next?",
+        "option_a": "7.7",
+        "option_b": "20.7",
+        "option_c": "8.7",
+        "option_d": "13.7",
+        "answer": "C"
+    },
+    {
+        "id": 431,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -19, -26, -33, -40, ... What number should come next?",
+        "option_a": "-28",
+        "option_b": "-47",
+        "option_c": "-48",
+        "option_d": "-41",
+        "answer": "B"
+    },
+    {
+        "id": 432,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 20, 21, 22, 23, ... What number should come next?",
+        "option_a": "24",
+        "option_b": "43",
+        "option_c": "20",
+        "option_d": "28",
+        "answer": "A"
+    },
+    {
+        "id": 433,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 20, 22, 24, 26, ... What number should come next?",
+        "option_a": "23",
+        "option_b": "28",
+        "option_c": "38",
+        "option_d": "29",
+        "answer": "B"
+    },
+    {
+        "id": 434,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 119, 59, 29, 14, ... What number should come next?",
+        "option_a": "27",
+        "option_b": "-3",
+        "option_c": "7",
+        "option_d": "16",
+        "answer": "C"
+    },
+    {
+        "id": 435,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 5, 10, 20, 40, ... What number should come next?",
+        "option_a": "80",
+        "option_b": "78",
+        "option_c": "95",
+        "option_d": "89",
+        "answer": "A"
+    },
+    {
+        "id": 436,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 120, 24, 4, 0, ... What number should come next?",
+        "option_a": "19",
+        "option_b": "-6",
+        "option_c": "8",
+        "option_d": "0",
+        "answer": "D"
+    },
+    {
+        "id": 437,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 99, 89, 79, 69, ... What number should come next?",
+        "option_a": "52",
+        "option_b": "66",
+        "option_c": "76",
+        "option_d": "59",
+        "answer": "D"
+    },
+    {
+        "id": 438,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -13, -22, -31, -40, ... What number should come next?",
+        "option_a": "-42",
+        "option_b": "-58",
+        "option_c": "-49",
+        "option_d": "-34",
+        "answer": "C"
+    },
+    {
+        "id": 439,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 6, 13, 20, 27, ... What number should come next?",
+        "option_a": "51",
+        "option_b": "34",
+        "option_c": "33",
+        "option_d": "39",
+        "answer": "B"
+    },
+    {
+        "id": 440,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -12, -21, -30, -39, ... What number should come next?",
+        "option_a": "-48",
+        "option_b": "-53",
+        "option_c": "-38",
+        "option_d": "-41",
+        "answer": "A"
+    },
+    {
+        "id": 441,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 65, 51, 37, 23, ... What number should come next?",
+        "option_a": "11",
+        "option_b": "9",
+        "option_c": "1",
+        "option_d": "19",
+        "answer": "B"
+    },
+    {
+        "id": 442,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 3, 4, 5, 0, ... What number should come next?",
+        "option_a": "1",
+        "option_b": "14",
+        "option_c": "5",
+        "option_d": "0",
+        "answer": "A"
+    },
+    {
+        "id": 443,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 78, 73, 68, 63, ... What number should come next?",
+        "option_a": "58",
+        "option_b": "72",
+        "option_c": "67",
+        "option_d": "53",
+        "answer": "A"
+    },
+    {
+        "id": 444,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -17, -18, -19, -20, ... What number should come next?",
+        "option_a": "-15",
+        "option_b": "-24",
+        "option_c": "-21",
+        "option_d": "-3",
+        "answer": "C"
+    },
+    {
+        "id": 445,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 3.7, 4.7, 5.7, 6.7, ... What number should come next?",
+        "option_a": "2.7",
+        "option_b": "16.7",
+        "option_c": "18.7",
+        "option_d": "7.7",
+        "answer": "D"
+    },
+    {
+        "id": 446,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 53, 44, 35, 26, ... What number should come next?",
+        "option_a": "14",
+        "option_b": "34",
+        "option_c": "17",
+        "option_d": "26",
+        "answer": "C"
+    },
+    {
+        "id": 447,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 122, 24, 4, 0, ... What number should come next?",
+        "option_a": "-4",
+        "option_b": "0",
+        "option_c": "20",
+        "option_d": "5",
+        "answer": "B"
+    },
+    {
+        "id": 448,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 169, 84, 42, 21, ... What number should come next?",
+        "option_a": "5",
+        "option_b": "10",
+        "option_c": "26",
+        "option_d": "17",
+        "answer": "B"
+    },
+    {
+        "id": 449,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 2.1, 3.7, 5.3, 6.9, ... What number should come next?",
+        "option_a": "8.5",
+        "option_b": "5.5",
+        "option_c": "24.5",
+        "option_d": "12.5",
+        "answer": "A"
+    },
+    {
+        "id": 450,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 5, 12, 19, 26, ... What number should come next?",
+        "option_a": "25",
+        "option_b": "52",
+        "option_c": "37",
+        "option_d": "33",
+        "answer": "D"
+    },
+    {
+        "id": 451,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 2.3, 3.8, 5.3, 6.8, ... What number should come next?",
+        "option_a": "1.3",
+        "option_b": "13.3",
+        "option_c": "24.3",
+        "option_d": "8.3",
+        "answer": "D"
+    },
+    {
+        "id": 452,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 69, 63, 57, 51, ... What number should come next?",
+        "option_a": "38",
+        "option_b": "45",
+        "option_c": "62",
+        "option_d": "49",
+        "answer": "B"
+    },
+    {
+        "id": 453,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 4.7, 6.3, 7.9, 9.5, ... What number should come next?",
+        "option_a": "20.1",
+        "option_b": "30.1",
+        "option_c": "4.1",
+        "option_d": "11.1",
+        "answer": "D"
+    },
+    {
+        "id": 454,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 1, 8, 15, 22, ... What number should come next?",
+        "option_a": "29",
+        "option_b": "35",
+        "option_c": "45",
+        "option_d": "25",
+        "answer": "A"
+    },
+    {
+        "id": 455,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 5.0, 5.3, 5.6, 5.9, ... What number should come next?",
+        "option_a": "19.2",
+        "option_b": "2.2",
+        "option_c": "11.2",
+        "option_d": "6.2",
+        "answer": "D"
+    },
+    {
+        "id": 456,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 66, 57, 48, 39, ... What number should come next?",
+        "option_a": "30",
+        "option_b": "25",
+        "option_c": "48",
+        "option_d": "38",
+        "answer": "A"
+    },
+    {
+        "id": 457,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -18, -19, -20, -21, ... What number should come next?",
+        "option_a": "-9",
+        "option_b": "-14",
+        "option_c": "-32",
+        "option_d": "-22",
+        "answer": "D"
+    },
+    {
+        "id": 458,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 54, 44, 34, 24, ... What number should come next?",
+        "option_a": "13",
+        "option_b": "32",
+        "option_c": "18",
+        "option_d": "14",
+        "answer": "D"
+    },
+    {
+        "id": 459,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 78, 72, 66, 60, ... What number should come next?",
+        "option_a": "47",
+        "option_b": "54",
+        "option_c": "64",
+        "option_d": "56",
+        "answer": "B"
+    },
+    {
+        "id": 460,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 1.7, 2.3, 2.9, 3.5, ... What number should come next?",
+        "option_a": "3.1",
+        "option_b": "4.1",
+        "option_c": "12.1",
+        "option_d": "16.1",
+        "answer": "B"
+    },
+    {
+        "id": 461,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 82, 74, 66, 58, ... What number should come next?",
+        "option_a": "44",
+        "option_b": "52",
+        "option_c": "65",
+        "option_d": "50",
+        "answer": "D"
+    },
+    {
+        "id": 462,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 126, 42, 14, 4, ... What number should come next?",
+        "option_a": "1",
+        "option_b": "17",
+        "option_c": "0",
+        "option_d": "7",
+        "answer": "A"
+    },
+    {
+        "id": 463,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 16, 26, 36, 46, ... What number should come next?",
+        "option_a": "56",
+        "option_b": "76",
+        "option_c": "60",
+        "option_d": "53",
+        "answer": "A"
+    },
+    {
+        "id": 464,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 11, 13, 15, 17, ... What number should come next?",
+        "option_a": "29",
+        "option_b": "19",
+        "option_c": "39",
+        "option_d": "12",
+        "answer": "B"
+    },
+    {
+        "id": 465,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 1, 3, 5, 7, ... What number should come next?",
+        "option_a": "21",
+        "option_b": "18",
+        "option_c": "9",
+        "option_d": "0",
+        "answer": "C"
+    },
+    {
+        "id": 466,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -7, -9, -11, -13, ... What number should come next?",
+        "option_a": "-20",
+        "option_b": "-15",
+        "option_c": "-1",
+        "option_d": "-14",
+        "answer": "B"
+    },
+    {
+        "id": 467,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 85, 80, 75, 70, ... What number should come next?",
+        "option_a": "66",
+        "option_b": "65",
+        "option_c": "55",
+        "option_d": "84",
+        "answer": "B"
+    },
+    {
+        "id": 468,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 12, 15, 18, 21, ... What number should come next?",
+        "option_a": "18",
+        "option_b": "41",
+        "option_c": "24",
+        "option_d": "27",
+        "answer": "C"
+    },
+    {
+        "id": 469,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 12, 20, 28, 36, ... What number should come next?",
+        "option_a": "52",
+        "option_b": "59",
+        "option_c": "44",
+        "option_d": "35",
+        "answer": "C"
+    },
+    {
+        "id": 470,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 74, 61, 48, 35, ... What number should come next?",
+        "option_a": "20",
+        "option_b": "22",
+        "option_c": "25",
+        "option_d": "40",
+        "answer": "B"
+    },
+    {
+        "id": 471,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -11, -16, -21, -26, ... What number should come next?",
+        "option_a": "-30",
+        "option_b": "-31",
+        "option_c": "-35",
+        "option_d": "-13",
+        "answer": "B"
+    },
+    {
+        "id": 472,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 3, 6, 12, 24, ... What number should come next?",
+        "option_a": "48",
+        "option_b": "51",
+        "option_c": "46",
+        "option_d": "66",
+        "answer": "A"
+    },
+    {
+        "id": 473,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 124, 41, 13, 4, ... What number should come next?",
+        "option_a": "-2",
+        "option_b": "5",
+        "option_c": "1",
+        "option_d": "19",
+        "answer": "C"
+    },
+    {
+        "id": 474,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 3.9, 5.1, 6.3, 7.5, ... What number should come next?",
+        "option_a": "8.7",
+        "option_b": "24.7",
+        "option_c": "2.7",
+        "option_d": "14.7",
+        "answer": "A"
+    },
+    {
+        "id": 475,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 153, 30, 6, 1, ... What number should come next?",
+        "option_a": "13",
+        "option_b": "7",
+        "option_c": "-9",
+        "option_d": "0",
+        "answer": "D"
+    },
+    {
+        "id": 476,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 102, 20, 4, 0, ... What number should come next?",
+        "option_a": "0",
+        "option_b": "-9",
+        "option_c": "1",
+        "option_d": "16",
+        "answer": "A"
+    },
+    {
+        "id": 477,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 93, 82, 71, 60, ... What number should come next?",
+        "option_a": "54",
+        "option_b": "49",
+        "option_c": "39",
+        "option_d": "61",
+        "answer": "B"
+    },
+    {
+        "id": 478,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 2, 11, 20, 29, ... What number should come next?",
+        "option_a": "34",
+        "option_b": "58",
+        "option_c": "42",
+        "option_d": "38",
+        "answer": "D"
+    },
+    {
+        "id": 479,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 148, 49, 16, 5, ... What number should come next?",
+        "option_a": "7",
+        "option_b": "1",
+        "option_c": "-3",
+        "option_d": "19",
+        "answer": "B"
+    },
+    {
+        "id": 480,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 90, 82, 74, 66, ... What number should come next?",
+        "option_a": "52",
+        "option_b": "58",
+        "option_c": "77",
+        "option_d": "60",
+        "answer": "B"
+    },
+    {
+        "id": 481,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 3, 4, 0, 1, ... What number should come next?",
+        "option_a": "2",
+        "option_b": "5",
+        "option_c": "21",
+        "option_d": "1",
+        "answer": "A"
+    },
+    {
+        "id": 482,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 135, 27, 5, 1, ... What number should come next?",
+        "option_a": "15",
+        "option_b": "-9",
+        "option_c": "0",
+        "option_d": "8",
+        "answer": "C"
+    },
+    {
+        "id": 483,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -12, -17, -22, -27, ... What number should come next?",
+        "option_a": "-32",
+        "option_b": "-33",
+        "option_c": "-31",
+        "option_d": "-22",
+        "answer": "A"
+    },
+    {
+        "id": 484,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 66, 53, 40, 27, ... What number should come next?",
+        "option_a": "14",
+        "option_b": "9",
+        "option_c": "21",
+        "option_d": "33",
+        "answer": "A"
+    },
+    {
+        "id": 485,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 4.4, 5.9, 7.4, 8.9, ... What number should come next?",
+        "option_a": "10.4",
+        "option_b": "17.4",
+        "option_c": "5.4",
+        "option_d": "25.4",
+        "answer": "A"
+    },
+    {
+        "id": 486,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 81, 75, 69, 63, ... What number should come next?",
+        "option_a": "69",
+        "option_b": "67",
+        "option_c": "57",
+        "option_d": "52",
+        "answer": "C"
+    },
+    {
+        "id": 487,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 4, 0, 1, 2, ... What number should come next?",
+        "option_a": "3",
+        "option_b": "-5",
+        "option_c": "7",
+        "option_d": "17",
+        "answer": "A"
+    },
+    {
+        "id": 488,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 142, 71, 35, 17, ... What number should come next?",
+        "option_a": "25",
+        "option_b": "7",
+        "option_c": "8",
+        "option_d": "12",
+        "answer": "C"
+    },
+    {
+        "id": 489,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -15, -25, -35, -45, ... What number should come next?",
+        "option_a": "-40",
+        "option_b": "-61",
+        "option_c": "-46",
+        "option_d": "-55",
+        "answer": "D"
+    },
+    {
+        "id": 490,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 4.4, 4.7, 5.0, 5.3, ... What number should come next?",
+        "option_a": "5.6",
+        "option_b": "12.6",
+        "option_c": "4.6",
+        "option_d": "16.6",
+        "answer": "A"
+    },
+    {
+        "id": 491,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 1.2, 1.9, 2.6, 3.3, ... What number should come next?",
+        "option_a": "14.0",
+        "option_b": "6.0",
+        "option_c": "4.0",
+        "option_d": "1.0",
+        "answer": "C"
+    },
+    {
+        "id": 492,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 74, 63, 52, 41, ... What number should come next?",
+        "option_a": "30",
+        "option_b": "25",
+        "option_c": "49",
+        "option_d": "31",
+        "answer": "A"
+    },
+    {
+        "id": 493,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 166, 33, 6, 1, ... What number should come next?",
+        "option_a": "0",
+        "option_b": "9",
+        "option_c": "15",
+        "option_d": "-4",
+        "answer": "A"
+    },
+    {
+        "id": 494,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 143, 35, 8, 2, ... What number should come next?",
+        "option_a": "0",
+        "option_b": "7",
+        "option_c": "14",
+        "option_d": "-5",
+        "answer": "A"
+    },
+    {
+        "id": 495,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -10, -14, -18, -22, ... What number should come next?",
+        "option_a": "-22",
+        "option_b": "-33",
+        "option_c": "-14",
+        "option_d": "-26",
+        "answer": "D"
+    },
+    {
+        "id": 496,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 99, 94, 89, 84, ... What number should come next?",
+        "option_a": "84",
+        "option_b": "69",
+        "option_c": "79",
+        "option_d": "99",
+        "answer": "C"
+    },
+    {
+        "id": 497,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 9, 18, 27, 36, ... What number should come next?",
+        "option_a": "45",
+        "option_b": "59",
+        "option_c": "40",
+        "option_d": "50",
+        "answer": "A"
+    },
+    {
+        "id": 498,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -9, -10, -11, -12, ... What number should come next?",
+        "option_a": "-3",
+        "option_b": "-2",
+        "option_c": "-13",
+        "option_d": "-18",
+        "answer": "C"
+    },
+    {
+        "id": 499,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 0.8, 2.1, 3.4, 4.7, ... What number should come next?",
+        "option_a": "10.0",
+        "option_b": "26.0",
+        "option_c": "6.0",
+        "option_d": "2.0",
+        "answer": "C"
+    },
+    {
+        "id": 500,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 13, 17, 21, 25, ... What number should come next?",
+        "option_a": "34",
+        "option_b": "19",
+        "option_c": "29",
+        "option_d": "49",
+        "answer": "C"
+    },
+    {
+        "id": 501,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 3.3, 4.7, 6.1, 7.5, ... What number should come next?",
+        "option_a": "8.9",
+        "option_b": "15.9",
+        "option_c": "7.9",
+        "option_d": "28.9",
+        "answer": "A"
+    },
+    {
+        "id": 502,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 2, 3, 4, 0, ... What number should come next?",
+        "option_a": "14",
+        "option_b": "3",
+        "option_c": "1",
+        "option_d": "-8",
+        "answer": "C"
+    },
+    {
+        "id": 503,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 2.6, 3.5, 4.4, 5.3, ... What number should come next?",
+        "option_a": "18.2",
+        "option_b": "6.2",
+        "option_c": "7.2",
+        "option_d": "2.2",
+        "answer": "B"
+    },
+    {
+        "id": 504,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -17, -20, -23, -26, ... What number should come next?",
+        "option_a": "-29",
+        "option_b": "-14",
+        "option_c": "-27",
+        "option_d": "-35",
+        "answer": "A"
+    },
+    {
+        "id": 505,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 7, 0, 1, 2, ... What number should come next?",
+        "option_a": "3",
+        "option_b": "-5",
+        "option_c": "8",
+        "option_d": "20",
+        "answer": "A"
+    },
+    {
+        "id": 506,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 146, 29, 5, 1, ... What number should come next?",
+        "option_a": "6",
+        "option_b": "-2",
+        "option_c": "0",
+        "option_d": "14",
+        "answer": "C"
+    },
+    {
+        "id": 507,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 16, 20, 24, 28, ... What number should come next?",
+        "option_a": "24",
+        "option_b": "48",
+        "option_c": "38",
+        "option_d": "32",
+        "answer": "D"
+    },
+    {
+        "id": 508,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 100, 86, 72, 58, ... What number should come next?",
+        "option_a": "44",
+        "option_b": "51",
+        "option_c": "39",
+        "option_d": "64",
+        "answer": "A"
+    },
+    {
+        "id": 509,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 86, 75, 64, 53, ... What number should come next?",
+        "option_a": "42",
+        "option_b": "33",
+        "option_c": "45",
+        "option_d": "62",
+        "answer": "A"
+    },
+    {
+        "id": 510,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 164, 41, 10, 2, ... What number should come next?",
+        "option_a": "10",
+        "option_b": "0",
+        "option_c": "7",
+        "option_d": "-3",
+        "answer": "B"
+    },
+    {
+        "id": 511,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 2, 3, 4, 0, ... What number should come next?",
+        "option_a": "1",
+        "option_b": "0",
+        "option_c": "5",
+        "option_d": "19",
+        "answer": "A"
+    },
+    {
+        "id": 512,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 3, 11, 19, 27, ... What number should come next?",
+        "option_a": "35",
+        "option_b": "45",
+        "option_c": "48",
+        "option_d": "25",
+        "answer": "A"
+    },
+    {
+        "id": 513,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 0.6, 2.2, 3.8, 5.4, ... What number should come next?",
+        "option_a": "25.0",
+        "option_b": "10.0",
+        "option_c": "4.0",
+        "option_d": "7.0",
+        "answer": "D"
+    },
+    {
+        "id": 514,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 195, 97, 48, 24, ... What number should come next?",
+        "option_a": "22",
+        "option_b": "3",
+        "option_c": "21",
+        "option_d": "12",
+        "answer": "D"
+    },
+    {
+        "id": 515,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 0.2, 1.5, 2.8, 4.1, ... What number should come next?",
+        "option_a": "-3.6",
+        "option_b": "7.4",
+        "option_c": "5.4",
+        "option_d": "23.4",
+        "answer": "C"
+    },
+    {
+        "id": 516,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -12, -22, -32, -42, ... What number should come next?",
+        "option_a": "-45",
+        "option_b": "-52",
+        "option_c": "-53",
+        "option_d": "-42",
+        "answer": "B"
+    },
+    {
+        "id": 517,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 94, 83, 72, 61, ... What number should come next?",
+        "option_a": "48",
+        "option_b": "51",
+        "option_c": "50",
+        "option_d": "66",
+        "answer": "C"
+    },
+    {
+        "id": 518,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 5, 6, 7, 8, ... What number should come next?",
+        "option_a": "5",
+        "option_b": "0",
+        "option_c": "15",
+        "option_d": "-3",
+        "answer": "B"
+    },
+    {
+        "id": 519,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 3.9, 5.5, 7.1, 8.7, ... What number should come next?",
+        "option_a": "10.3",
+        "option_b": "5.3",
+        "option_c": "23.3",
+        "option_d": "12.3",
+        "answer": "A"
+    },
+    {
+        "id": 520,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 76, 66, 56, 46, ... What number should come next?",
+        "option_a": "43",
+        "option_b": "30",
+        "option_c": "36",
+        "option_d": "52",
+        "answer": "C"
+    },
+    {
+        "id": 521,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 100, 50, 25, 12, ... What number should come next?",
+        "option_a": "20",
+        "option_b": "6",
+        "option_c": "8",
+        "option_d": "-4",
+        "answer": "B"
+    },
+    {
+        "id": 522,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 158, 52, 17, 5, ... What number should come next?",
+        "option_a": "12",
+        "option_b": "8",
+        "option_c": "1",
+        "option_d": "-2",
+        "answer": "C"
+    },
+    {
+        "id": 523,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 62, 53, 44, 35, ... What number should come next?",
+        "option_a": "22",
+        "option_b": "35",
+        "option_c": "26",
+        "option_d": "36",
+        "answer": "C"
+    },
+    {
+        "id": 524,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 3.0, 4.3, 5.6, 6.9, ... What number should come next?",
+        "option_a": "8.2",
+        "option_b": "11.2",
+        "option_c": "22.2",
+        "option_d": "5.2",
+        "answer": "A"
+    },
+    {
+        "id": 525,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 11, 20, 29, 38, ... What number should come next?",
+        "option_a": "57",
+        "option_b": "47",
+        "option_c": "38",
+        "option_d": "55",
+        "answer": "B"
+    },
+    {
+        "id": 526,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 11, 21, 31, 41, ... What number should come next?",
+        "option_a": "66",
+        "option_b": "51",
+        "option_c": "50",
+        "option_d": "60",
+        "answer": "B"
+    },
+    {
+        "id": 527,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 16, 18, 20, 22, ... What number should come next?",
+        "option_a": "19",
+        "option_b": "25",
+        "option_c": "42",
+        "option_d": "24",
+        "answer": "D"
+    },
+    {
+        "id": 528,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 1.4, 2.2, 3.0, 3.8, ... What number should come next?",
+        "option_a": "4.6",
+        "option_b": "13.6",
+        "option_c": "1.6",
+        "option_d": "15.6",
+        "answer": "A"
+    },
+    {
+        "id": 529,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 60, 50, 40, 30, ... What number should come next?",
+        "option_a": "20",
+        "option_b": "32",
+        "option_c": "12",
+        "option_d": "27",
+        "answer": "A"
+    },
+    {
+        "id": 530,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -10, -20, -30, -40, ... What number should come next?",
+        "option_a": "-48",
+        "option_b": "-50",
+        "option_c": "-32",
+        "option_d": "-52",
+        "answer": "B"
+    },
+    {
+        "id": 531,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -10, -12, -14, -16, ... What number should come next?",
+        "option_a": "-16",
+        "option_b": "-8",
+        "option_c": "-18",
+        "option_d": "-21",
+        "answer": "C"
+    },
+    {
+        "id": 532,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 0.6, 2.2, 3.8, 5.4, ... What number should come next?",
+        "option_a": "26.0",
+        "option_b": "-1.0",
+        "option_c": "7.0",
+        "option_d": "17.0",
+        "answer": "C"
+    },
+    {
+        "id": 533,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -14, -21, -28, -35, ... What number should come next?",
+        "option_a": "-27",
+        "option_b": "-39",
+        "option_c": "-42",
+        "option_d": "-51",
+        "answer": "C"
+    },
+    {
+        "id": 534,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 15, 22, 29, 36, ... What number should come next?",
+        "option_a": "59",
+        "option_b": "43",
+        "option_c": "33",
+        "option_d": "45",
+        "answer": "B"
+    },
+    {
+        "id": 535,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 98, 85, 72, 59, ... What number should come next?",
+        "option_a": "46",
+        "option_b": "65",
+        "option_c": "54",
+        "option_d": "42",
+        "answer": "A"
+    },
+    {
+        "id": 536,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 168, 56, 18, 6, ... What number should come next?",
+        "option_a": "-2",
+        "option_b": "7",
+        "option_c": "14",
+        "option_d": "2",
+        "answer": "D"
+    },
+    {
+        "id": 537,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -4, -13, -22, -31, ... What number should come next?",
+        "option_a": "-42",
+        "option_b": "-26",
+        "option_c": "-40",
+        "option_d": "-31",
+        "answer": "C"
+    },
+    {
+        "id": 538,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 134, 67, 33, 16, ... What number should come next?",
+        "option_a": "12",
+        "option_b": "7",
+        "option_c": "19",
+        "option_d": "8",
+        "answer": "D"
+    },
+    {
+        "id": 539,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -11, -17, -23, -29, ... What number should come next?",
+        "option_a": "-42",
+        "option_b": "-22",
+        "option_c": "-35",
+        "option_d": "-31",
+        "answer": "C"
+    },
+    {
+        "id": 540,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 0.9, 2.5, 4.1, 5.7, ... What number should come next?",
+        "option_a": "1.3",
+        "option_b": "13.3",
+        "option_c": "7.3",
+        "option_d": "27.3",
+        "answer": "C"
+    },
+    {
+        "id": 541,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 4, 7, 10, 13, ... What number should come next?",
+        "option_a": "6",
+        "option_b": "21",
+        "option_c": "16",
+        "option_d": "30",
+        "answer": "C"
+    },
+    {
+        "id": 542,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 2.8, 3.2, 3.6, 4.0, ... What number should come next?",
+        "option_a": "1.4",
+        "option_b": "8.4",
+        "option_c": "24.4",
+        "option_d": "4.4",
+        "answer": "D"
+    },
+    {
+        "id": 543,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 100, 25, 6, 1, ... What number should come next?",
+        "option_a": "11",
+        "option_b": "9",
+        "option_c": "-5",
+        "option_d": "0",
+        "answer": "D"
+    },
+    {
+        "id": 544,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -7, -10, -13, -16, ... What number should come next?",
+        "option_a": "-8",
+        "option_b": "-21",
+        "option_c": "-16",
+        "option_d": "-19",
+        "answer": "D"
+    },
+    {
+        "id": 545,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 0.4, 1.5, 2.6, 3.7, ... What number should come next?",
+        "option_a": "4.8",
+        "option_b": "9.8",
+        "option_c": "19.8",
+        "option_d": "-3.2",
+        "answer": "A"
+    },
+    {
+        "id": 546,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 4.4, 5.5, 6.6, 7.7, ... What number should come next?",
+        "option_a": "24.8",
+        "option_b": "8.8",
+        "option_c": "15.8",
+        "option_d": "3.8",
+        "answer": "B"
+    },
+    {
+        "id": 547,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 2, 12, 22, 32, ... What number should come next?",
+        "option_a": "37",
+        "option_b": "58",
+        "option_c": "48",
+        "option_d": "42",
+        "answer": "D"
+    },
+    {
+        "id": 548,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 95, 83, 71, 59, ... What number should come next?",
+        "option_a": "47",
+        "option_b": "53",
+        "option_c": "45",
+        "option_d": "61",
+        "answer": "A"
+    },
+    {
+        "id": 549,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 3.4, 5.0, 6.6, 8.2, ... What number should come next?",
+        "option_a": "3.8",
+        "option_b": "11.8",
+        "option_c": "9.8",
+        "option_d": "19.8",
+        "answer": "C"
+    },
+    {
+        "id": 550,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 4, 20, 100, 500, ... What number should come next?",
+        "option_a": "2491",
+        "option_b": "2500",
+        "option_c": "2512",
+        "option_d": "2510",
+        "answer": "B"
+    },
+    {
+        "id": 551,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 4, 5, 0, 1, ... What number should come next?",
+        "option_a": "18",
+        "option_b": "-8",
+        "option_c": "2",
+        "option_d": "3",
+        "answer": "C"
+    },
+    {
+        "id": 552,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 58, 50, 42, 34, ... What number should come next?",
+        "option_a": "26",
+        "option_b": "16",
+        "option_c": "35",
+        "option_d": "40",
+        "answer": "A"
+    },
+    {
+        "id": 553,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 57, 43, 29, 15, ... What number should come next?",
+        "option_a": "-8",
+        "option_b": "18",
+        "option_c": "11",
+        "option_d": "1",
+        "answer": "D"
+    },
+    {
+        "id": 554,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 20, 30, 40, 50, ... What number should come next?",
+        "option_a": "60",
+        "option_b": "80",
+        "option_c": "56",
+        "option_d": "62",
+        "answer": "A"
+    },
+    {
+        "id": 555,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 166, 83, 41, 20, ... What number should come next?",
+        "option_a": "1",
+        "option_b": "10",
+        "option_c": "14",
+        "option_d": "28",
+        "answer": "B"
+    },
+    {
+        "id": 556,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 122, 61, 30, 15, ... What number should come next?",
+        "option_a": "27",
+        "option_b": "7",
+        "option_c": "6",
+        "option_d": "16",
+        "answer": "B"
+    },
+    {
+        "id": 557,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -9, -14, -19, -24, ... What number should come next?",
+        "option_a": "-18",
+        "option_b": "-35",
+        "option_c": "-29",
+        "option_d": "-28",
+        "answer": "C"
+    },
+    {
+        "id": 558,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 20, 25, 30, 35, ... What number should come next?",
+        "option_a": "40",
+        "option_b": "60",
+        "option_c": "31",
+        "option_d": "47",
+        "answer": "A"
+    },
+    {
+        "id": 559,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -7, -14, -21, -28, ... What number should come next?",
+        "option_a": "-35",
+        "option_b": "-37",
+        "option_c": "-33",
+        "option_d": "-24",
+        "answer": "A"
+    },
+    {
+        "id": 560,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -16, -23, -30, -37, ... What number should come next?",
+        "option_a": "-45",
+        "option_b": "-34",
+        "option_c": "-29",
+        "option_d": "-44",
+        "answer": "D"
+    },
+    {
+        "id": 561,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 181, 45, 11, 2, ... What number should come next?",
+        "option_a": "0",
+        "option_b": "13",
+        "option_c": "-6",
+        "option_d": "7",
+        "answer": "A"
+    },
+    {
+        "id": 562,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 154, 30, 6, 1, ... What number should come next?",
+        "option_a": "0",
+        "option_b": "16",
+        "option_c": "4",
+        "option_d": "-10",
+        "answer": "A"
+    },
+    {
+        "id": 563,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 75, 65, 55, 45, ... What number should come next?",
+        "option_a": "36",
+        "option_b": "35",
+        "option_c": "49",
+        "option_d": "34",
+        "answer": "B"
+    },
+    {
+        "id": 564,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: 0.8, 2.6, 4.4, 6.2, ... What number should come next?",
+        "option_a": "18.0",
+        "option_b": "14.0",
+        "option_c": "1.0",
+        "option_d": "8.0",
+        "answer": "D"
+    },
+    {
+        "id": 565,
+        "category": "Logical Reasoning",
+        "question": "Look at this series: -8, -18, -28, -38, ... What number should come next?",
+        "option_a": "-31",
+        "option_b": "-51",
+        "option_c": "-48",
+        "option_d": "-42",
+        "answer": "C"
+    }
+]
